@@ -1,248 +1,812 @@
-text,retweet,like,reply,time,user_id,sentiment
-"Why does Axios reporter 
-@BradyDale
- think Dogecoin belongs with Bitcoin and Ethereum as crypto's canonical chains? CoinDesk interviewed the author whose book about FTX's downfall is due to be published shortly.
-@danielgkuhn
- at #Consensus2023",9,41,16,2023-04-27T14:35:15.000Z,CoinDesk,Sentiment: neutral
-Floki or Shib? or Dogecoin?,148,873,"1,113",2023-04-25T18:31:13.000Z,AltcoinDailyio,Sentiment: neutral
-"CRYPTO NEWS TODAY:
+text,retweet,like,reply,time,user_id,Unnamed: 6,Unnamed: 7,Unnamed: 8,sentiment
+"Top 5 Crypto memecoins by market capitalization: 
 
--- Coinbase Receives Bermuda License #BTC
--- European Union Approves #MiCA Regulation #ETH
--- SpaceX’s Starship Explodes.. #Dogecoin Dips!
--- Big #Solana News!
--- #0x News!
--- & MORE!",40,256,105,2023-04-20T23:44:11.000Z,AltcoinDailyio,Sentiment: neutral
-Dogecoin: When an Investor Made $2 Million in 69 Days,16,181,18,2023-04-20T22:35:12.000Z,CryptoTrends,Sentiment: positive
-"Dogecoin, SHIB, or FLOKI?   ",148,984,980,2023-04-20T21:07:29.000Z,AltcoinDailyio,Sentiment: neutral.
-"Shiba Inu $SHIB Will Overtake Dogecoin In One Year, CNBC Says",100,533,41,2023-04-20T19:51:19.000Z,CryptoTrends,Sentiment: Neutral
-$DOGE will become the currency of Twitter.,155,"1,135",325,2023-04-20T17:20:00.000Z,rovercrc,Sentiment: neutral
-Can Dogecoin $DOGE reach $1 in 2023? ,30,280,31,2023-04-18T19:08:48.000Z,CryptoTrends,Sentiment: neutral.
-I think $DOGE will be extremely volatile on 4/20,66,571,194,2023-04-17T15:07:00.000Z,rovercrc,Sentiment: neutral
-"You know 
-@elonmusk
- is gonna do something hilariously BIG on 4/20! $DOGE",60,678,114,2023-04-16T00:52:08.000Z,AltcoinDailyio,Sentiment: positive
-"All of 
-@renprotocol
-’s assets and shares will be transferred to cold wallets controlled by FTX Trading.
-
-Ren was a popular DeFi protocol in the 2021 bull run, enabling cross-chain transfers of tokens like $BTC, $ETH and $DOGE.",29,132,32,2023-04-15T14:05:29.000Z,CoinDesk,Sentiment: neutral
-Peak Dogecoin culture.  $DOGE,66,357,117,2023-04-14T07:27:49.000Z,AltcoinDailyio,Sentiment: neutral
-"Elon Musk is integrating #crypto trading into Twitter.
-
-You know what that means.
-
-#Dogecoin #Altseason #tokens",306,"1,420",146,2023-04-14T02:04:03.000Z,AltcoinDailyio,Sentiment: positive
-"$DOGE
-
-Breaking the 700-day downtrend right now.",192,"1,075",189,2023-04-13T12:36:08.000Z,rovercrc,Sentiment: positive
-"Dogecoin has surged by 5.8% as traders anticipate a further push towards the meme coin by Twitter CEO Elon Musk. Reporting by 
-@oknightcrypto
-.",29,185,31,2023-04-13T10:40:30.000Z,CoinDesk,Sentiment: neutral
-"$1,000,000 in #Bitcoin or $DOGE?",71,606,481,2023-04-08T15:52:00.000Z,rovercrc,Sentiment: neutral.
-".
-@Dogecoin
-'s Shiba Inu mascot featured as 
-@Twitter
-'s logo caused a surge in $DOGE price, resulting in other Shiba Inu-themed meme coins to jump up to 25%. 
-
-But will the surge last? 
-https://coindesk.com/markets/2023/04/06/jump-in-shiba-inu-breed-themed-tokens-is-unsustainable-warn-crypto-traders/?term=organic&utm_campaign=CoinDesk&utm_content=headline%2CIG+XPost%2Ceditorial&utm_medium=social&utm_source=twitter…",29,170,77,2023-04-07T14:16:06.000Z,CoinDesk,Sentiment: positive
-Elon Musk doesn't care about #DOGE hodlers,135,"1,268",620,2023-04-07T12:48:00.000Z,AltcoinDailyio,Sentiment: negative
-"Why is #dogecoin going down?!
-
-Do NOT Buy #XRP Until *THIS* Happens?!
-
-Trader 
-@TomCrownCrypto
- EXPLAINS!
-
-WATCH 
->> https://youtu.be/OCB3MdLUw3s",31,151,84,2023-04-07T00:53:53.000Z,AltcoinDailyio,Sentiment: negative
-BREAKING: Elon Musk REMOVES #Dogecoin logo from Twitter!,67,797,303,2023-04-06T23:11:12.000Z,AltcoinDailyio,Sentiment: negative
-JUST IN: Twitter reverts its logo and removes the Dogecoin #DOGE website icon.,4,127,17,2023-04-06T21:03:34.000Z,CryptoTrends,Sentiment: negative
-"JUST IN: $DOGE sinks after 
-@twitter
- stops using dogecoin's dog mascot on its site.
-@inkbacker
- reports",144,566,137,2023-04-06T21:03:25.000Z,CoinDesk,Sentiment: negative
-JUST IN: Twitter removes the Dogecoin $DOGE website logo.,"1,232","6,705","1,163",2023-04-06T20:55:47.000Z,WatcherGuru,Sentiment: neutral
-"LIVE: Crypto traders warn that the jump in $DOGE tokens is unsustainable, India targets one million CBDC users in three months and more.
-
-""The Hash"" panel discusses today's top news on CoinDesk TV:",11,45,17,2023-04-06T16:00:18.000Z,CoinDesk,Sentiment: neutral
-"Good morning Asia, here's how markets are moving today:
-1. Ether outperforms bitcoin, although both cryptos fall. Doge drops.
-2. Liquid staking providers can succeed by considering a few key factors, 
-@Amberdataio
- says.
+??Dogecoin: $24.25 billion
+??Shiba Inu: $16.31 billion
+??Pepe: $3.1 billion
+??Bonk: $2.57 billion
+??WIF: $1.64 billion",1.7K,9.4K,893,2024-03-04T15:45:27.000Z,WatcherGuru,,,,Sentiment: positive
+"$PEPE trading volumes reached a lifetime peak of $3.6 billion, with weekly gains beating those of $DOGE and $SHIB. By 
 @shauryamalwa
-, 
-@JPRubin23
- report",14,74,23,2023-04-06T01:36:30.000Z,CoinDesk,Sentiment: negative
-"Is Elon Musk updating the Twitter logo another step towards getting dogecoin – sometimes unironically called the people's cryptocurrency – into the hands of the masses?
+.",230,629,105,2024-03-04T08:01:16.000Z,CoinDesk,,,,Sentiment: positive
+$PEPE is $DOGE 2.0,424,2.5K,326,2024-03-03T19:03:00.000Z,rovercrc,,,,Sentiment: neutral
+$DOGE and $SHIB led the CoinDesk 20 gainers last week. A look at these and others from CoinDesk Indices.,37,155,73,2024-03-02T22:47:28.000Z,CoinDesk,,,,Sentiment: positive
+Will $PEPE pull a $DOGE?,245,1.6K,334,2024-03-02T11:30:00.000Z,rovercrc,,,,Sentiment: neutral
+$DOGE and $SHIB led the CoinDesk 20 gainers last week. A look at these and others from CoinDesk Indices.,31,96,33,2024-03-02T00:20:56.000Z,CoinDesk,,,,Sentiment: positive
+$DOGE and $SHIB led the CoinDesk 20 gainers last week. A look at these and others from CoinDesk Indices.,25,68,18,2024-03-01T17:34:35.000Z,CoinDesk,,,,Sentiment: positive
+"$DOGE futures set a record open interest at $1 billion, signaling strong trading interest in the tokens. 
 
-Opinion for ""The Node"" newsletter, by 
-@danielgkuhn",14,84,19,2023-04-05T18:31:40.000Z,CoinDesk,Sentiment: neutral
-I think $DOGE is undervalued.,88,877,273,2023-04-05T17:18:00.000Z,rovercrc,Sentiment: positive
-$DOGE BREAKOUT IS ABOUT TO GET CONFIRMED! ,161,"1,112",133,2023-04-05T16:36:00.000Z,rovercrc,Sentiment: positive
-Should I buy more $DOGE?,108,958,394,2023-04-05T13:46:00.000Z,rovercrc,Sentiment: neutral
-"A technical markets indicator is suggesting huge trading interest building on $DOGE derivative markets following Twitter’s decision to replace its popular blue bird logo with a picture of a Shiba Inu dog this week. By 
-@shauryamalwa",55,160,22,2023-04-05T09:50:52.000Z,CoinDesk,Sentiment: positive
-"#Dogecoin flipped #Cardano briefly the other day, but Cardano $ADA is now back above $DOGE.",29,338,55,2023-04-05T02:23:36.000Z,AltcoinDailyio,Sentiment: neutral
-"Good morning Asia, here's how the markets are moving:
-1. Bitcoin sailed past $28.6K late Tuesday, but DOGE fell slightly after a dramatic opening to the week.
-2. Delphi Digital's research head considers Binance's loss of market share.
-@JPRubin23
- reports",28,102,19,2023-04-05T01:48:45.000Z,CoinDesk,Sentiment: neutral
-"If Elon Musk keeps promoting $DOGE many dog coins will get a BIG BOOST!
-
-$SHIB $FLOKI $VOLT",265,833,303,2023-04-05T00:09:39.000Z,AltcoinDailyio,Sentiment: positive
-If #DOGE hits $1 I'll take a $DOGE tattoo,67,577,184,2023-04-04T17:33:00.000Z,rovercrc,Sentiment: neutral
-"$DOGE has climbed to a four-month high and has more room to run according to a technical chart signal called the Bollinger Band.
-
-The chart shows 
-@dogecoin
-, breaking out of a ""Bollinger Bands squeeze.""
-https://coindesk.com/markets/2023/04/04/first-mover-americas-dogecoin-pops-on-new-twitter-logo/?term=organic&utm_campaign=CoinDesk&utm_content=chart+of+the+day%2Ceditorial&utm_medium=social&utm_source=twitter…",22,103,26,2023-04-04T16:48:09.000Z,CoinDesk,Sentiment: Positive
-"The $DOGE rally following 
-@elonmusk
-'s changing of the 
-@Twitter
- logo, ""was certainly sustained by traders in Korea,"" 
-@TheTieIO
-'s 
-@Joshua_Frank_
+Nearly 70% were on the long side, expecting the meme coin to go higher, 
+@coinalyzetool
  says.
 
-More broadly, ""Asian hours and European hours traders are really moving the crypto markets,"" he adds.
-https://coindesk.com/video/dogecoin-soars-after-twitter-replaces-blue-bird-logo-with-the-tokens-dog/?term=organic&utm_campaign=CoinDesk&utm_content=coindesk+tv%2CFirst+Mover%2Ceditorial&utm_medium=social&utm_source=twitter…",40,149,25,2023-04-04T16:17:31.000Z,CoinDesk,Sentiment: neutral
-"My 2025 Price Prediction: 
-$BTC $520,000 
-$ETH $60,500
-$DOGE $1",165,"1,309",331,2023-04-04T16:09:00.000Z,rovercrc,Sentiment: Positive.
-"Futures tracking 
-@dogecoin
-'s $DOGE tokens racked up $26 million in liquidations in the past 24 hours.
-
-A bulk of the liquidations came as 
-@Twitter
- seemed to change its bird logo to a popular image that refers to a meme featuring a Shiba Inu dog. 
-https://coindesk.com/markets/2023/04/04/dogecoin-futures-liquidations-jumps-to-26m-after-twitter-displays-tokens-logo-for-some-users/?term=organic&utm_campaign=CoinDesk&utm_content=headline%2CIG+XPost%2Ceditorial&utm_medium=social&utm_source=twitter…",40,187,35,2023-04-04T14:33:56.000Z,CoinDesk,Sentiment: neutral
-"Are you bullish on #Dogecoin?  
-
-NO                              YES
-                                ",119,"2,187",388,2023-04-04T13:23:00.000Z,rovercrc,Sentiment: neutral
-"LIVE: 
-@Binance
- market share hits its lowest level since November, $DOGE soars after Twitter replaces its blue bird logo with 
-@dogecoin
-'s dog logo and more.
-@kevinolearytv
-, 
-@bitbuy_dean
-, 
-@Joshua_Frank_
- and FTX creditor Sunil Kavuri join ""First Mover"":",16,72,38,2023-04-04T13:00:19.000Z,CoinDesk,Sentiment: positive.
-"#Dogecoin is more than an investment.
-
-It's a movement.",105,807,241,2023-04-04T12:28:00.000Z,AltcoinDailyio,Sentiment: positive
-"$DOGE gained 35% after 
-@elonmusk
-'s Twitter replaced its bird logo with a dog, and 
-@binance
-'s market share is falling. 
-@LedesmaLyllah
- reports.",113,612,60,2023-04-04T12:16:37.000Z,CoinDesk,Sentiment: positive
-"Open interest, or the number of unsettled futures contracts, on 
-@dogecoin
- futures surged to over $580 million. By 
+Watch ""Chart of the Day"", presented by 
+@cryptocom
+: https://coindesk.com/video/dogecoin-bullish-bets-reach-record-dollar1b/?term=organic&utm_campaign=CoinDesk&utm_content=coindesk+tv%2CFirst+Mover%2CChartSponsor%2CCrypto.com%2Ceditorial&utm_medium=social&utm_source=twitter??,22,90,26,2024-03-01T01:59:59.000Z,CoinDesk
+Traders are using prominent meme tokens", such as $DOGE and $BONK, as ecosystem bets for their respective blockchains, #Ethereum and #Solana.,,,,,,Sentiment: positive
+https://coindesk.com/markets/2024/02/29/dogecoin-bullish-bets-reach-record-1b/?term=organic&utm_campaign=CoinDesk&utm_content=headline%2CIG+XPost%2Ceditorial&utm_medium=social&utm_source=twitter??,20,94,51,2024-02-29T18:26:15.000Z,CoinDesk,,,,Sentiment: positive
+"Open interest, or the amount of unsettled bets, on $DOGE futures, increased over 54% since Wednesday, setting a lifetime record of $1 billion. By 
 @shauryamalwa
-.",33,157,51,2023-04-04T06:28:43.000Z,CoinDesk,Sentiment: neutral
-" news:
+.",20,60,34,2024-02-29T08:36:02.000Z,CoinDesk,,,,Sentiment: positive
+$BTC $DOGE $BONK $SHIB,277,2K,164,2024-02-29T06:30:03.000Z,AltcoinDailyio,,,,Sentiment: neutral
+"JUST IN: Dogecoin $DOGE rises over 32% in the last 24 hours, surpassing a $17.5 billion market cap.",1.1K,6.7K,480,2024-02-29T04:24:19.000Z,WatcherGuru,,,,Sentiment: positive
+Dogecoin also pumping! Do people still like $DOGE?,79,1.1K,204,2024-02-28T17:23:11.000Z,AltcoinDailyio,,,,Sentiment: positive
+"I said it many times, I think $PEPE will overtake $DOGE",131,1.1K,217,2024-02-28T12:36:13.000Z,rovercrc,,,,Sentiment: neutral
+"X/Twitter will reportedly start labeling AI images soon 
 
-- $JPM bankers reportedly joked about Epstein's trafficking
-- $BX stops REITs withdrawals
-- SEC vs Wallstreet 
-- $META stops remote work job postings
-- $DOGE new Twitter logo?
-- $GOOGL cut down laptops, services
-- Finland x NATO
-- Futures: http://unusualwhales.com/futures",70,302,21,2023-04-04T06:26:00.000Z,unusual_whales,Sentiment: neutral.
-When can I choose the #DOGE logo Elon?,57,529,135,2023-04-04T06:21:08.000Z,rovercrc,Sentiment: neutral
-"""I do not respect the SEC. I do not respect them""
+via @cb_doge",210,3.9K,179,2024-02-21T01:49:49.000Z,Dexerto,,,,Sentiment: neutral
+Smell good. Invest good. $DOGE,366,2.2K,239,2024-02-19T13:50:00.000Z,AltcoinDailyio,,,,Sentiment: positive
+I think $PEPE will likely overtake $DOGE in the next bull run!,181,1.4K,369,2024-02-10T18:18:00.000Z,rovercrc,,,,Sentiment: neutral
+#Dogecoin is fun.   ,46,468,203,2024-02-06T20:02:00.000Z,AltcoinDailyio,,,,Sentiment: neutral
+"Inscriptions have taken off in the last year after first launching on the #Bitcoin blockchain.
 
- - Elon Musk on SEC #Dogecoin #Ethereum #Bitcoin",772,"3,665",209,2023-04-04T02:47:44.000Z,AltcoinDailyio,Sentiment: negative
-"450 million monthly active Twitter users now have to look at the Shiba Inu from #Dogecoin whenever they use the Twitter app.
+Now 
+@okx
+ is getting in on the action, adding support for Atomicals, Stamps, Runes and Dogecoin?? Doginals on its platform. https://coindesk.com/tech/2024/01/29/okx-starts-inscription-support-atomicals-stamps-runes-and-doginals/?term=organic&utm_campaign=CoinDesk&utm_content=headline%2CIG+XPost%2Ceditorial&utm_medium=social&utm_source=twitter??,11,43,30,2024-01-30T01:18:05.000Z,CoinDesk
+Dogecoin is more than just a dog-themed meme token using inscription technology.  ",,,,,,,,,Sentiment: neutral
+Doom, the popular and influential first-person shooter video game first released in 1993, is available on the network thanks to a relatively new protocol.,,,,,,,Sentiment: neutral
+"https://trib.al/PQe2WjB""",60,194,40,2024-01-25T01:18:57.000Z,CoinDesk,,,,Sentiment: neutral
+"Dogecoin is more than just a dog-themed meme token using inscription technology.  
 
-Crypto is only getting BIGGER!   ",85,606,113,2023-04-04T02:28:56.000Z,AltcoinDailyio,Sentiment: neutral
-"Good morning Asia, here's how the markets are moving today:
-1. Bitcoin seesaws before sinking below $28K; Dogecoin is hot after Twitter logo change.
-2. Does Indonesia's CBDC offer a potential alternative to Mastercard and Visa?
-@JPRubin23
- writes",19,78,24,2023-04-04T02:10:30.000Z,CoinDesk,Sentiment: Neutral
-"Elon Musk Integrates #DOGE into Twitter! 
+Doom, the popular and influential first-person shooter video game first released in 1993, is available on the network thanks to a relatively new protocol.
+https://coindesk.com/markets/2024/01/24/someone-just-put-90s-darling-game-doom-on-dogecoin/?term=organic&utm_campaign=CoinDesk&utm_content=headline%2CIG+XPost%2Ceditorial&utm_medium=social&utm_source=twitter??,121,247,70,2024-01-24T16:51:11.000Z,CoinDesk
+Ask yourself this:",,,,,,,,,Sentiment: neutral
+If you only had $1,000 and you were just starting out would you buy Shiba Inu or Dogecoin?,,,,,,,,Positive
+"That's who is going to win.""",166,685,419,2024-01-23T09:03:00.000Z,AltcoinDailyio,,,,Sentiment: neutral
+"$DOGE has the tendency to surge on payments-related developments at any Elon Musk-owned companies, such as X or Tesla. $FLOKI, named after Musk?? dog, moves as a beta bet among midcap traders. 
 
- & RT 
+https://trib.al/JmUvS1F]",51,174,30,2024-01-23T01:52:07.000Z,CoinDesk,,,,Sentiment: positive
+"$DOGE has the tendency to surge on payments-related developments at any Elon Musk-owned companies, such as X or Tesla. $FLOKI, named after Musk?? dog, moves as a beta bet among midcap traders. By 
+@shauryamalwa
+.",159,443,107,2024-01-22T06:42:47.000Z,CoinDesk,,,,Sentiment: positive
+Will $DOGE make a comeback in 2024?,259,1.7K,637,2024-01-21T17:09:00.000Z,rovercrc,,,,Sentiment: neutral
+"Not the brightest moment for crypto: Popular meme coin $DOGE jumped 9% then fell on a social media rumor about the death of 
+@dogecoin
+'s mascot. The claim was later retracted. 
+@sndr_krisztian
+ reports",4,39,15,2024-01-10T02:20:47.000Z,CoinDesk,,,,Sentiment: neutral
+"Not the brightest moment for crypto: Popular meme coin $DOGE jumped 9% then fell on a social media rumor about the death of 
+@dogecoin
+'s mascot. The claim was later retracted.",17,76,22,2024-01-10T01:22:06.000Z,CoinDesk,,,,Sentiment: neutral
+me carrying my dogecoin into 2024,79,892,97,2024-01-04T02:05:23.000Z,AltcoinDailyio,,,,Sentiment: neutral
+"Not the brightest moment for crypto: Popular meme coin $DOGE jumped 9% then fell on a social media rumor about the death of 
+@dogecoin
+'s mascot. The claim was later retracted. 
+@sndr_krisztian
+ reports
 
-CLICK HERE 
->> https://youtu.be/DkUocAI6rkI",96,452,83,2023-04-04T00:40:43.000Z,AltcoinDailyio,Sentiment: neutral
-#Dogecoin holders on twitter today ,72,482,68,2023-04-03T22:34:14.000Z,AltcoinDailyio,Sentiment: neutral.
-"Bitcoin remained firmly within the range it has held for much of the past two weeks, recently trading at $27,500 Monday. DOGE soared after Twitter changed its platform's logo to the Dogecoin symbol from a blue bird. 
-@_jocelynyang_
- reports",13,86,26,2023-04-03T21:52:44.000Z,CoinDesk,Sentiment: positive
-Elon Musk waited until April 3rd to change the Twitter logo to #Doge to show his haters how deadly serious he really is. #Dogecoin,249,"1,866",165,2023-04-03T20:59:34.000Z,AltcoinDailyio,Sentiment: neutral
-"Just over a year ago, Elon Musk said it would be sick to change the Twitter logo to Doge",18,740,14,2023-04-03T20:41:53.000Z,Dexerto,Sentiment: neutral
-FLASH - Le cours du #DogeCoin a bondi de 26% après qu'Elon Musk ait changé le logo de #Twitter par celui de la célèbre cryptomonnaie.,350,"1,792",110,2023-04-03T19:44:52.000Z,AlertesInfos,Sentiment: positive
-JUST IN: Dogecoin flips Cardano $ADA becoming the 7th largest #crypto in the world by market value.,"1,335","6,244",487,2023-04-03T19:38:33.000Z,WatcherGuru,Sentiment: Neutral
-"Before Twitter changed the logo from the Blue Bird to Doge from Dogecoin, there appeared to be more buying than selling of dogecoin.
+https://trib.al/53ECLSD",11,68,23,2024-01-09T19:10:44.000Z,CoinDesk,,,,'Sentiment: negative'
+"Without googling, what issue is Dogecoin really solving?",105,549,259,2023-12-23T16:42:00.000Z,rovercrc,,,,Sentiment: neutral
+Everyone who bought Doge because of Elon must be thrilled to hear he doesn't spend a lot of time thinking about cryptocurrencies.,19,522,57,2023-12-22T07:09:34.000Z,BTCGandalf,,,,Sentiment: neutral
+"You receive $100,000, and you can only buy one of the following #Crypto.
 
-See more: http://unusualwhales.com/crypto",195,"1,032",78,2023-04-03T19:15:40.000Z,unusual_whales,Sentiment: Neutral
-Elon Musk trolls the SEC with new Dogecoin Twitter logo & this tweet.  ,231,"1,538",98,2023-04-03T19:14:14.000Z,AltcoinDailyio,Sentiment: neutral
-Elon Musk on Dogecoin ,186,812,87,2023-04-03T18:34:17.000Z,AltcoinDailyio,Sentiment: neutral
-"YOU CAN BUY $DOGE HERE AND GET A $30,050 SIGNUP BONUS 
+What do you choose?  
 
-https://partner.bybit.com/b/Buydoge",97,436,82,2023-04-03T18:31:31.000Z,rovercrc,Sentiment: positive
-"If this tweet gets 5,000 likes I will buy 1 Dogecoin.",43,678,115,2023-04-03T18:30:00.000Z,AltcoinDailyio,Sentiment: neutral
-$DOGE BREAKING OUT! ,360,"1,410",151,2023-04-03T18:26:24.000Z,rovercrc,Sentiment: positive.
-Dogecoin just hit 10¢. ,63,470,67,2023-04-03T18:22:00.000Z,AltcoinDailyio,Sentiment: positive
-Twitter is still littered with bots and the engineering team is out here changing the Twitter logo to the Doge logo.,75,528,66,2023-04-03T18:19:59.000Z,BTCGandalf,Sentiment: neutral
-Elon still doesn’t realise how many people he rekt the last Doge pump.,11,155,34,2023-04-03T18:18:25.000Z,BTCGandalf,Sentiment: negative
-How much Dogecoin is Elon Musk buying? ,52,549,175,2023-04-03T18:18:14.000Z,AltcoinDailyio,Sentiment: neutral
-TWITTER JUST CHANGED MY PROFILE PICTURE TO $DOGE ,245,"2,304",248,2023-04-03T18:13:49.000Z,rovercrc,Sentiment: positive
-The Doge Meme has mysteriously replaced the Twitter logo on the profile and timeline of all users on Twitter Web.,"2,388","9,531",372,2023-04-03T18:11:29.000Z,PopBase,Sentiment: neutral
-$DOGE OWN TWITTER NOW! ,239,"1,626",134,2023-04-03T18:10:35.000Z,rovercrc,Sentiment: neutral
-JUST IN: $0.10 #Doge,12,94,8,2023-04-03T18:05:13.000Z,CryptoTrends,Sentiment: neutral
- BREAKING: Twitter updates its logo to Dogecoin #DOGE.,322,"2,168",174,2023-04-03T18:00:00.000Z,rovercrc,Sentiment: neutral
-"Dogecoin is sharply higher after its Shiba Inu symbol replaced the blue bird atop Twitter. $DOGE
-@SteveAlpher
- reports",319,"1,047",105,2023-04-03T17:58:17.000Z,CoinDesk,Sentiment: positive
-Twitter updated its website logo to Doge,"1,779",15.3K,368,2023-04-03T17:58:02.000Z,Dexerto,Sentiment: neutral
-JUST IN: Twitter replaces its logo with #Dogecoin.,234,"1,202",30,2023-04-03T17:56:42.000Z,CryptoTrends,Sentiment: neutral.
-Dogecoin price after Elon Musk switched Twitter logo. ,195,934,95,2023-04-03T17:54:25.000Z,AltcoinDailyio,Sentiment: neutral.
-SOMETHING is HAPPENING with TWITTER & DOGECOIN!,145,801,66,2023-04-03T17:52:10.000Z,AltcoinDailyio,Sentiment: neutral
-JUST IN: Twitter updates its website logo to Dogecoin #DOGE.,"3,866",13.1K,"1,092",2023-04-03T17:49:56.000Z,WatcherGuru,Sentiment: neutral.
-BREAKING: The Twitter logo has been changed to Doge in dogecoin.,941,"4,777",239,2023-04-03T17:44:20.000Z,unusual_whales,Sentiment: neutral
-$DOGE Trying to Break the Weekly Downtrend! ,86,610,161,2023-04-02T17:09:00.000Z,rovercrc,Sentiment: neutral
-"I just bought $100,000 worth of $DOGE
+- $BTC   
+- $ETH
+- $SOL
+- $INJ
+- $XRP  
+- $ADA  
+- ",271,1.2K,1.5K,2023-12-21T07:31:19.000Z,rovercrc,,,,Sentiment: neutral
+"What will happen first? 
 
-Stupid or smart?",166,"1,834","1,084",2023-04-02T16:24:00.000Z,rovercrc,Sentiment: neutral
-"Which of these will happen first?
+Bitcoin = $100,000
+Ethereum = $10,000
+BNB = $1,000
+Solana = $500
+Injective = $150
+Chainlink = $100
+Polkadot = $100
+Cardano = $8
+Polygon = $5",514,3.1K,1.4K,2023-12-19T21:10:00.000Z,AltcoinDailyio,,,,Sentiment: neutral
+"You receive $10,000, and you can only buy one of the following #Crypto. What do you choose?  
 
-#Bitcoin: $70,000
-#Ethereum: $8,000
-#BNB: $1,000
-#Solana: $500
+- $BTC   
+- $ETH
+- $SOL
+- $XRP  
+- $ADA  
+- $LINK
+- $AGRS
+- ",210,734,925,2023-12-16T17:13:37.000Z,rovercrc,,,,Sentiment: neutral
+"Ethereum-focused developer @0xPolygonLabs stops contributing to 'Polygon Edge,' in shift to zero-knowledge or ZK cryptography. (Edge was template for 
+@DogechainFamily
+, not officially endorsed by Dogecoin $DOGE) - 
+@liqquidity
+ reports",9,62,25,2023-12-15T21:35:22.000Z,CoinDesk,,,,Sentiment: neutral
+"$BONK is different from the gazillions of dog-themed meme coins in the market.
+
+??t's already more useful than either of those. There?? (not) much you can do with SHIB or DOGE on-chain,??devs told is last January.
+
+Read more ",61,203,47,2023-12-15T14:03:56.000Z,CoinDesk,,,,Sentiment: neutral
+"In 2013 you missed $BTC
+In 2014 you missed $DOGE
+In 2015 you missed $XRP
+In 2016 you missed $ETH
+In 2017 you missed $ADA
+In 2018 you missed $BNB
+In 2019 you missed $LINK
+In 2020 you missed $DOT
+In 2021 you missed $SHIB
+In 2022 you missed $USDT
+In 2023 you missed ",319,1.3K,1.4K,2023-12-15T08:37:24.000Z,rovercrc,,,,Sentiment: neutral
+Elon Musk is the DOGE FATHER  #Dogecoin,106,510,90,2023-12-14T15:08:00.000Z,AltcoinDailyio,,,,Sentiment: positive
+"#Bitcoin's recent rapid rally has revived risk-taking in the crypto market.
+
+It has spurred investors to pour money into non-serious cryptocurrencies like $DOGE.
+
+Watch Chart of the Day explain the data, presented by 
+@cryptocom
+: https://coindesk.com/video/dogecoin-rises-over-15percent-this-week-as-bitcoins-rally-revives-risk-taking/?term=organic&utm_campaign=CoinDesk&utm_content=coindesk+tv%2CChartSponsor%2CCrypto.com%2Ceditorial&utm_medium=social&utm_source=twitter??,8,50,23,2023-12-07T21:16:25.000Z,CoinDesk
+$GEC", a token issued by the ,,,,,,,,Sentiment: neutral
+@GeometricEnergy,,,,,,,,,Sentiment: neutral
+, is up more than 300% in the past week. ,,,,,,,,Sentiment: neutral
+Another token, $XI, which is said to be used to pay for ads displayed on the DOGE-1 satellite," is up 36%.""",28,69,27,2023-12-07T14:51:49.000Z,CoinDesk,Sentiment: neutral
+$DOGE breaks the weekly downtrend! ,82,405,121,2023-12-07T08:43:00.000Z,rovercrc,,,,Sentiment: positive
+"$GEC, a token issued by the @GeometricEnergyCorporation, is up more than 300% in the past week. Another token, $XI, which is said to be used to pay for ads displayed on the DOGE-1 satellite, is up 36%. By 
+@shauryamalwa
+https://trib.al/xUO9Tof",97,234,69,2023-12-07T08:31:34.000Z,CoinDesk,,,,Sentiment: positive
+"A $DOGE surge started to reverse in U.S. morning hours Wednesday after 
+@elonmusk
+ said that his artificial intelligence startup xAI was not ""raising money."" 
+
+DOGE has historically pumped on Musk's comments and public posts.
+https://coindesk.com/markets/2023/12/06/elon-musk-halts-dogecoin-surge-by-saying-his-ai-business-is-not-raising-money/?term=organic&utm_campaign=CoinDesk&utm_content=IG+XPost%2Ctweet%2Ceditorial&utm_medium=social&utm_source=twitter??,83,95,17,2023-12-06T19:54:35.000Z,CoinDesk
+#Dogecoin is fun.   ,57,472,140,2023-12-06T17:02:00.000Z,AltcoinDailyio
+.",,,,,,,,,Sentiment: neutral
+@elonmusk,,,,,,,,,"I'm sorry, but it seems like the tweet content is missing. Could you please provide the tweet text so I can perform the sentiment analysis for you?"
+" halts $DOGE rally by saying his AI business is """"not raising money.""""",,,,,,,,,Sentiment: neutral
+@shauryamalwa,,,,,,,,,Sentiment: neutral
+" reports""",33,170,41,2023-12-06T15:08:11.000Z,CoinDesk,,,,Sentiment: neutral
+"10 years ago today, the first #Dogecoin block was mined.",45,418,75,2023-12-06T14:10:00.000Z,AltcoinDailyio,,,,Sentiment: neutral
+"#Crypto traders pour money into $DOGE perpetual futures on meme coin's 10th anniversary as $BTC rally spurs risk-taking across all corners of the digital assets market. reports 
+@godbole17
+.",37,113,33,2023-12-06T10:45:32.000Z,CoinDesk,,,,Sentiment: positive
+"He managed to transform the remaining $4 million of the grant into $27 million by investing in Dogecoin, as reported by the New York Times.",264,2.4K,97,2023-12-05T06:10:31.000Z,unusual_whales,,,,Sentiment: positive
+"Don't X users understand this yet!?!?! 
+
+Elon Musk wants to make X the ultimate payments & everything app. We know this. 
+
+THAT  MEANS  CRYPTO  INTEGRATIONS
+
+Bitcoin, Ethereum, & especially #Dogecoin are all prime contenders to be integrated into X in a very BIG &??,200,971,165,2023-12-05T02:57:35.000Z,AltcoinDailyio
+1 year ago today #Dogecoin was 10?.,38,411,112,2023-12-03T13:44:00.000Z,AltcoinDailyio
+The planned $DOGE funded DOGE-1 satellite neared reality as launch provider ",,,,,,,,,Sentiment: positive
+@SpaceX,,,,,,,,,Sentiment: neutral
+" mission received key regulatory approvals.""",78,243,34,2023-12-03T10:42:42.000Z,CoinDesk,,,,Sentiment: neutral
+"You receive $10,000, and you can only buy one of the following #Crypto. What do you choose? 
+
+- $BTC 
+- $ETH
+- $SOL
+- $XRP
+- $ADA
+- $VET
+- $USDT
+- ",370,1.1K,1.2K,2023-12-03T08:14:59.000Z,rovercrc,,,,Sentiment: neutral
+"Which of these will happen first? 
+
+#Bitcoin : $70,000 
+#Ethereum: $8,000 
+#BNB : $1,000
+#Solana: $500 
 #Chainlink: $80
 #Polkadot: $80
-#Matic: $5
-#Cardano: $4
-#XRP: $3
-#Dogecoin: $1
-#Vechain: $1
-#MEE: $1
-#Shib: $1",355,"2,349","1,051",2023-04-02T12:16:00.000Z,rovercrc,Sentiment: neutral
-"Elon Musk requests dismissal of $258 billion #Dogecoin lawsuit, calling it a ""fanciful work of fiction.""",9,61,5,2023-04-01T09:31:49.000Z,CryptoTrends,Sentiment: neutral
-Elon Musk requests dismissal of $258B #Dogecoin lawsuit,41,317,54,2023-04-01T05:24:30.000Z,AltcoinDailyio,Sentiment: neutral
+#MEE: $10
+#Matic: $5",669,2K,1K,2023-12-02T07:28:03.000Z,rovercrc,,,,Sentiment: neutral
+"The planned $DOGE funded DOGE-1 satellite neared reality as launch provider 
+@SpaceX
+ mission received key regulatory approvals.",126,336,41,2023-11-30T01:20:20.000Z,CoinDesk,,,,Sentiment: positive
+"The planned $DOGE funded DOGE-1 satellite neared reality as launch provider 
+@SpaceX
+ mission received key regulatory approvals. By 
+@shauryamalwa",97,279,38,2023-11-29T11:54:02.000Z,CoinDesk,,,,Sentiment: positive
+"The number of crypto addresses holding $DOGE has surpassed the 5 million mark for the first time on record, on-chain data show.",45,131,27,2023-11-29T03:24:04.000Z,CoinDesk,,,,Sentiment: positive
+"The number of crypto addresses holding $DOGE has surpassed the 5 million mark for the first time on record, on-chain data show. reports 
+@godbole17
+.",29,94,45,2023-11-28T08:27:52.000Z,CoinDesk,,,,Sentiment: positive
+"Top 10 Crypto Founder GOES OFF on US Regulators
+(MEGA BLOW UP)   
+
+$ADA $BTC $ETH $SOL $LINK $DOGE
+
+Watch HERE 
+>> https://youtu.be/uXGWjK8Muow",111,646,156,2023-11-28T04:14:48.000Z,AltcoinDailyio,,,,Sentiment: neutral
+Elon Musk gives serious interview on Bitcoin & Dogecoin. Elon Musk is a crypto believer.   ,567,2.9K,256,2023-11-26T18:51:00.000Z,AltcoinDailyio,,,,Sentiment: positive
+"BTC traded just over $37,500 in European morning hours Tuesday, adding 0.6%. Ether ($ETH) lost 0.5%, while dogecoin ($DOGE) and solana ($SOL) slumped as much as 5% as traders likely took profits. By 
+@shauryamalwa",10,88,22,2023-11-21T10:13:50.000Z,CoinDesk,,,,Sentiment: negative
+"Does 
+@elonmusk
+ still own bitcoin & ethereum (and Dogecoin)? It would be nice to get an update!",87,665,154,2023-11-20T00:16:13.000Z,AltcoinDailyio,,,,Sentiment: neutral
+"Trading interest in $DOGE bets rose over 40% to reach the most since April.   
+
+An increase in leveraged bets came after a 12% surge on Thursday as one company said it planned to send a physical token to the moon.  
+
+Watch more, presented by 
+@cryptocom
+: https://coindesk.com/video/key-metric-of-dogecoin-futures-jumps-in-past-24-hours/?term=organic&utm_campaign=CoinDesk&utm_content=coindesk+tv%2CFirst+Mover%2Ctheme+week%2Ceditorial%2Ctaxbit&utm_medium=social&utm_source=twitter??,8,38,14,2023-11-17T19:32:26.000Z,CoinDesk
+$DOGE ",,,,,,,,,Sentiment: positive
+"Breaks out and continues up.""",98,561,125,2023-11-17T12:56:00.000Z,rovercrc,,,,Sentiment: positive
+"A key metric of dogecoin futures jumped in the past 24 hours to indicate higher risk-taking behaviors among traders, one that has historically marked local price tops in crypto markets. By 
+@shauryamalwa",14,68,34,2023-11-17T10:39:01.000Z,CoinDesk,,,,Sentiment: neutral
+"A physical dogecoin (DOGE) token could reach Earth?? Moon in a space payload mission planned by Pittsburg-based firm Astrobotic. By 
+@shauryamalwa",10,49,52,2023-11-16T13:00:52.000Z,CoinDesk,,,,Sentiment: neutral
+"The latest crypto market spurt added 4.6% in the past 24 hours to take overall capitalization to levels not seen since May 2022. Cardano?? $ADA and dogecoin $DOGE led gains among the 10 biggest tokens, surging as much as 12%. By 
+@shauryamalwa",20,53,27,2023-11-16T11:51:27.000Z,CoinDesk,,,,Sentiment: positive
+"In 2013 you missed $BTC
+In 2014 you missed $DOGE
+In 2015 you missed $XRP
+In 2016 you missed $ETH
+In 2017 you missed $ADA
+In 2018 you missed $BNB
+In 2019 you missed $LINK
+In 2020 you missed $DOT
+In 2021 you missed $SHIB
+In 2022 you missed $USDT
+In 2023 you missed ",164,858,1.1K,2023-11-15T06:24:58.000Z,rovercrc,,,,Sentiment: neutral
+$DOGE IS BREAKING OUT! ,129,620,116,2023-11-12T18:45:00.000Z,rovercrc,,,,Sentiment: positive
+"$DOGE
+
+Starting to bounce from this important level.
+
+Won't be surprised to see DOGE take off any time soon.",86,381,150,2023-11-11T12:32:00.000Z,rovercrc,,,,Sentiment: positive
+Genuinely curious if $DOGE is the future or just hype?,76,836,505,2023-11-11T10:27:00.000Z,AltcoinDailyio,,,,Sentiment: neutral
+"$ETH soared 10%, hitting a 7-month high as 
+@BlackRock
+ laid the groundwork for an ether ETF, while $BTC remained steady above $36,000.
+
+Altcoins plunged as this halted a rotation into smaller tokens. $XRP and $DOGE lost almost 5%.
+@sndr_krisztian
+ reports",42,161,28,2023-11-09T23:01:58.000Z,CoinDesk,,,,Sentiment: negative
+"Futures open interest in $SHIB and $DOGE has surged 23% and 14.6% since Nov. 1, signaling increased investor risk appetite in the crypto market. reports 
+@godbole17
+.",33,88,20,2023-11-08T01:11:20.000Z,CoinDesk,,,,Sentiment: positive
+"Futures open interest in $SHIB and $DOGE has surged 23% and 14.6% since Nov. 1, signaling increased investor risk appetite in the crypto market. reports 
+@godbole17
+.",26,89,32,2023-11-07T10:57:22.000Z,CoinDesk,,,,Sentiment: positive
+"#Bitcoin halted at $35,000 as large-cap altcoins $XRP, $ADA, $DOGE, $LINK and $AVAX rose 5%-10% during the day. Investment advisory firm 
+@ByteTree
+ hinted at the early innings of a potential #altseason. 
+@sndr_krisztian
+ reports",46,143,37,2023-11-06T21:41:09.000Z,CoinDesk,,,,Sentiment: positive
+"#Crypto Market Cap Dominance (One Year Ago):
+
+Bitcoin = 39%
+Ethereum = 19%
+BNB = 5%
+XRP = 2%
+Dogecoin = 1.5%
+Cardano = 1.4%
+Solana = 1%",63,357,104,2023-11-01T15:59:00.000Z,AltcoinDailyio,,,,Sentiment: neutral
+How would you explain $DOGE to your friends and family?,77,446,446,2023-10-30T20:46:00.000Z,rovercrc,,,,Sentiment: neutral
+"$DOGE
+
+Currently at support important support now.
+
+Wouldn't be surpised to see a bounce!",59,359,128,2023-10-30T16:11:00.000Z,rovercrc,,,,Sentiment: positive
+"#bitcoin cooled off, sliding 2% to $34K on Thursday. $DOGE and $PEPE gained 5%-6% during the day as meme coins stole the spotlight. Still, $BTC is in its fifth bull market, now driven by institutions, one observer said. 
+@sndr_krisztian
+ writes",8,62,18,2023-10-26T20:43:17.000Z,CoinDesk,,,,Sentiment: neutral
+"Popular meme tokens $DOGE and $SHIB jumped 9% in the past 24 hours in a move that suggested crypto traders were taking riskier bets following a week of $BTC outperformance. By 
+@shauryamalwa
+.",30,107,44,2023-10-26T06:43:54.000Z,CoinDesk,,,,Sentiment: positive
+"In 2013 you missed $BTC
+In 2014 you missed $DOGE
+In 2015 you missed $XRP
+In 2016 you missed $ETH
+In 2017 you missed $ADA
+In 2018 you missed $BNB
+In 2019 you missed $LINK
+In 2020 you missed $DOT
+In 2021 you missed $SHIB
+In 2022 you missed $USDT
+In 2023 you missed ",174,928,944,2023-10-16T12:59:46.000Z,rovercrc,,,,Sentiment: neutral
+"I think in the next bull market, $PEPE will overtake $DOGE!",154,867,468,2023-10-10T17:18:00.000Z,rovercrc,,,,Sentiment: neutral
+Dogecoin is crypto ,150,926,176,2023-10-08T15:49:00.000Z,AltcoinDailyio,,,,Sentiment: neutral
+"An engaged NFT community that holds the original ""doge"" meme plans to install an actual statue that pays homage to Kabosu, the dog that inspired the meme, on Nov. 2 in Sakura, Japan.
+https://trib.al/AWtUgjb",39,115,34,2023-10-07T19:38:38.000Z,CoinDesk,,,,Sentiment: neutral
+Elon Musk to Dogecoin haters. ,36,245,86,2023-10-05T20:53:11.000Z,AltcoinDailyio,,,,Sentiment: neutral
+Elon Musk loves Dogecoin.   ,244,994,244,2023-10-05T13:48:00.000Z,AltcoinDailyio,,,,Sentiment: positive
+"Floki, Shib, or Doge? (if you HAD to pick)",126,968,1K,2023-10-01T01:50:26.000Z,AltcoinDailyio,,,,Sentiment: neutral
+"In 2013 you missed $BTC
+In 2014 you missed $DOGE
+In 2015 you missed $XRP
+In 2016 you missed $ETH
+In 2017 you missed $ADA
+In 2018 you missed $BNB
+In 2019 you missed $LINK
+In 2020 you missed $DOT
+In 2021 you missed $SHIB
+In 2022 you missed $USDT
+In 2023 you missed ",205,1.4K,1.5K,2023-09-29T15:46:06.000Z,rovercrc,,,,Sentiment: neutral
+"Definitely undervalued:
+#Bitcoin
+
+Possibly undervalued:
+Ethereum
+Ripple
+Doge
+
+Definitely overvalued:
+Solana",53,338,162,2023-09-27T18:33:00.000Z,rovercrc,,,,Sentiment: neutral
+"$DOGE now looks more stable than $BTC, although the relative stability probably reflects a lack of investor interest in trading altcoins. reports 
+@godbole17
+.",25,76,33,2023-09-22T11:41:04.000Z,CoinDesk,,,,Sentiment: neutral
+"Major altcoins sold off on Thursday as traders likely locked in gains from earlier this week. In the past 24 hours, $BNB and $XRP slid as much as 2%, $ETH shed 1%, while $DOGE was little changed. By 
+@shauryamalwa
+.",18,48,33,2023-09-21T10:23:57.000Z,CoinDesk,,,,Sentiment: neutral
+Elon Musk likes Dogecoin even in a bear market. That's the point.,84,706,119,2023-09-20T07:31:26.000Z,AltcoinDailyio,,,,Sentiment: neutral
+Elon Musk says he will continue promoting #Dogecoin.,279,1.9K,251,2023-09-18T04:29:38.000Z,AltcoinDailyio,,,,Sentiment: positive
+"Top 10 Crypto assets by market cap:
+
+1. Bitcoin: $516 billion
+2. Ethereum: $196 b
+3. Tether: $83 b
+4. Binance Coin: $33 b
+5. XRP: $26 b
+6. USD Coin: $26 b
+7. Cardano: $8.8 b
+8. Dogecoin: $8.79 b
+9. Solana: $7.88 b
+10. TRON: $7.47 b",239,1.1K,251,2023-09-17T02:14:49.000Z,AltcoinDailyio,,,,Sentiment: Neutral
+"FTX is expected to receive approval to liquidate the following assets on September 13th.
+
+$SOL $685,000,000
+$FTT $529,000,000
+$BTC $268,000,000
+$ETH $90,000,000
+$APT $67,000,000
+$DOGE $42,000,000
+$MATIC $39,000,000",1.4K,3.7K,679,2023-09-09T18:23:39.000Z,rovercrc,,,,Sentiment: neutral
+Doge season is coming  ,342,1.6K,223,2023-09-09T07:32:17.000Z,AltcoinDailyio,,,,Sentiment: positive
+"Elon Musk could pump #Dogecoin to $1 easily if he wanted to. He already hit 50? in 2021.
+
+And why wouldn't he want to?
+
+He truly likes the coin. ",232,1.7K,423,2023-09-06T17:34:04.000Z,AltcoinDailyio,,,,Sentiment: positive
+"BlackRock & #Bitcoin
+
+Fidelity & #Ethereum
+
+Elon Musk (X) & #Dogecoin
+
+Reddit & #Polygon
+
+PayPal & #Stablecoins
+
+SEC & ",220,946,225,2023-09-06T01:41:29.000Z,AltcoinDailyio,,,,Sentiment: positive
+"?? just received approval for another money transfer license for its forthcoming payment services.
+
+Another step closer to X Payments and a full scale creator economy.
+
+Will $DOGE be part of the economy?",36,285,85,2023-09-05T19:29:44.000Z,rovercrc,,,,Sentiment: neutral
+"Top 8 LOW-CAP Crypto Coins?   
+
+$MINA $THETA $HELLO $NRG
+$DOGE $PRISMA $TOMI $RLB
+
+Click HERE 
+>> https://youtu.be/z9e28kir60w",37,208,70,2023-09-05T01:03:25.000Z,AltcoinDailyio,,,,Sentiment: neutral
+$DOGE BREAKING OUT!,79,513,128,2023-09-04T17:22:30.000Z,rovercrc,,,,Sentiment: positive
+I think $DOGE is about to explode here...,69,508,125,2023-08-30T19:21:00.000Z,rovercrc,,,,Sentiment: positive
+Robinhood?? Crypto Wallet Adds #Bitcoin and #Dogecoin,225,1.4K,149,2023-08-30T18:21:32.000Z,AltcoinDailyio,,,,Sentiment: neutral
+"Robinhood's crypto wallet added support for $BTC and $DOGE. Certain users can now swap Ethereum assets, too.
+@realDannyNelson
+ reports",20,58,12,2023-08-30T16:40:41.000Z,CoinDesk,,,,Sentiment: positive
+"With (X) acquiring a license to add crypto payments, I believe we're on the brink of a significant surge in $DOGE.
+
+I'm currently loading up.",71,413,126,2023-08-30T09:14:00.000Z,rovercrc,,,,Sentiment: positive
+"Twitter (X) Acquires Required License to Add Crypto Payments
+
+X may possibly introduce a cryptocurrency sending and receiving feature to its millions of users worldwide.
+
+Bullish for $DOGE!",128,610,82,2023-08-29T15:39:54.000Z,rovercrc,,,,Sentiment: positive
+"Per 
+@VeloData
+, European hours have been a major source of bearish pressures for DOGE while Asia-Pacific hours have been the opposite. 
+@godbole17
+ reports",6,23,14,2023-08-29T12:30:42.000Z,CoinDesk,,,,Sentiment: neutral
+JUST IN: Elon Musk says X (Twitter) is a $DOGE friendly place.,1.1K,6.4K,759,2023-08-23T11:33:29.000Z,WatcherGuru,,,,Sentiment: positive
+"There is a non-zero chance that Elon Musk integrates $DOGE natively into 
+@X
+. 
+
+If/when that happens the #Dogecoin price will EXPLODE!
+
+$1 $DOGE is programmed. $5 even possible.",53,237,94,2023-08-23T00:55:57.000Z,AltcoinDailyio,,,,Sentiment: positive
+"Cheems, the ??oge??meme dog, has passed away",13K,127K,2.4K,2023-08-19T16:39:00.000Z,Dexerto,,,,Sentiment: neutral
+$DOGE will most likely become the currency of X,109,711,238,2023-08-17T09:59:00.000Z,rovercrc,,,,Sentiment: positive
+"Fundstrat?? Tom Lee sees #bitcoin surpassing $150,000 if a spot BTC ETF is approved. For now, though, BTC remains mired at about the $29K level as altcoins crumble, with $SOL, $DOGE and $MATIC losing 5-7% on the day. 
+@sndr_krisztian
+ reports",14,46,32,2023-08-16T15:52:16.000Z,CoinDesk,,,,Sentiment: negative
+"Would you rather have $1,000,000 in $PEPE or $DOGE?",54,454,492,2023-08-14T19:58:00.000Z,rovercrc,,,,Sentiment: neutral
+$DOGE will become the currency of X.,109,758,212,2023-08-14T18:38:00.000Z,rovercrc,,,,Sentiment: neutral
+"Elon, I want to buy a Tesla only if I can pay it with $DOGE.
+
+Can you make this possible?",160,1K,307,2023-08-13T19:57:00.000Z,rovercrc,,,,Sentiment: positive
+$DOGE will become the currency of X.,163,1K,292,2023-08-13T18:36:00.000Z,rovercrc,,,,Sentiment: neutral
+#Dogecoin payments are coming to X.,246,1.2K,470,2023-08-12T17:07:00.000Z,rovercrc,,,,Sentiment: neutral
+"In 2013 you missed $BTC
+In 2014 you missed $DOGE
+In 2015 you missed $XRP
+In 2016 you missed $ETH
+In 2017 you missed $ADA
+In 2018 you missed $BNB
+In 2019 you missed $LINK
+In 2020 you missed $DOT
+In 2021 you missed $SHIB
+In 2022 you missed $USDT
+In 2023 you missed ",231,1.3K,1.6K,2023-08-12T10:30:04.000Z,rovercrc,,,,Sentiment: neutral
+"Are you bullish on $DOGE?
+
+NO                                 YES
+                                 ",37,617,204,2023-08-11T18:43:00.000Z,rovercrc,,,,Sentiment: positive
+"Elon Musk is a public supporter of Dogecoin, Bitcoin, & Ethereum.",116,668,156,2023-08-10T15:37:00.000Z,AltcoinDailyio,,,,Sentiment: neutral.
+"BlackRock Insider Says Bitcoin EFT 6 Months Away!
+
+Joe Rogan & Post Malone SHOCKED!
+
+$XRP $CELO $DOGE $BTC
+$ETH $FTM $MATIC
+Crypto News
+
+Click HERE 
+>> https://youtu.be/SNeX4J0XSZo",32,152,71,2023-08-09T23:50:03.000Z,AltcoinDailyio,,,,Sentiment: neutral
+Do you support Elon Musk? $DOGE #TESLA,65,688,193,2023-08-09T10:59:00.000Z,AltcoinDailyio,,,,Sentiment: neutral
+"$DOGE
+
+With a retest of its 10-year support, I anticipate increased strength, primarily driven by the potential integration in X.
+
+The green box indicates the recommended buy range.",42,163,58,2023-08-08T15:21:00.000Z,rovercrc,,,,Sentiment: positive
+Buy $DOGE before X is buying it.,100,832,193,2023-08-07T15:54:00.000Z,rovercrc,,,,Sentiment: positive
+Elon Musk is the DOGE FATHER  #Dogecoin,128,596,222,2023-08-07T06:08:32.000Z,AltcoinDailyio,,,,Sentiment: positive
+"Good news everyone! 
+
+The #Futurama gang heads to 'Doge City' next week in their season premiere #crypto-focused episode.
+
+This is the first episode after a 10 year hiatus.",104,460,103,2023-08-04T23:38:30.000Z,AltcoinDailyio,,,,Sentiment: positive
+"V2 will exist alongside the current GMX platform. It adds alternative currencies such as $DOGE at lower fees than version 1 in an effort to attract trading activity that will, in turn, drive revenue growth for 
+@GMX_IO
+. By 
+@shauryamalwa",18,85,48,2023-08-04T12:04:16.000Z,CoinDesk,,,,Sentiment: positive
+Buy #Bitcoin & #Doge before X is buying it.,110,567,363,2023-08-03T15:47:00.000Z,rovercrc,,,,Sentiment: neutral
+"Surging interest rates are putting pressure on risk assets, including cryptocurrencies. The U.S. 10-year yield is at a 2023 high and the 10-year JGB yield has risen to a nine-year high. $BTC $SOL $XRP $ADA $DOGE",16,49,36,2023-08-03T13:29:56.000Z,CoinDesk,,,,Sentiment: neutral
+"Did you pay attention to the Litecoin halving? Here's why Dogecoin traders should care (along with 
+@elonmusk
+) $LTC $DOGE #litecoinhalving 
+@FrederickMunawa
+ reports",10,42,28,2023-08-02T15:50:01.000Z,CoinDesk,,,,Sentiment: neutral
+#Dogecoin has just surpassed 4.7 million holders. ,88,653,138,2023-07-31T12:19:48.000Z,rovercrc,,,,Sentiment: positive
+$DOGE is about to confirm the weekly breakout! ,233,1.2K,290,2023-07-30T19:18:00.000Z,rovercrc,,,,Sentiment: positive
+"Does #Dogecoin have an infinite supply? 
+
+ Yes. 10k new $DOGE are mined into existence every minute.
+
+ Over 14.4 million new $DOGE enter the market every day.
+
+Elon Musk likes this saying: ""#Bitcoin is more suitable as a store of value. #Dogecoin is better suited for??,205,1.1K,274,2023-07-29T22:42:14.000Z,AltcoinDailyio
+Coco", a new crypto casino inspired by Milady NFTs, pepe and dogecoin, made a crackling debut with its native token $COCO hitting a market cap of $8.8 million. Reporting by ,,,,,,Sentiment: neutral
+@oknightcrypto,,,,,,,,,Sentiment: neutral
+".""",165,293,89,2023-07-28T11:26:39.000Z,CoinDesk,,,,"I'm sorry, but it seems like the tweet content is missing. Please provide the tweet text so I can analyze the sentiment for you."
+Do you hold $DOGE?,233,1.4K,466,2023-07-28T08:32:00.000Z,rovercrc,,,,Sentiment: neutral 
+"Bitcoin turned downward briefly early Friday morning in Asia before regaining ground to trade over $29.2K. ETH was down slightly over the past 4 hours. DOGE was down, but XLM rose modestly. 
+@JPRubin23
+ writes",15,39,29,2023-07-27T22:18:20.000Z,CoinDesk,,,,Sentiment: neutral
+Dogecoin to $1 ,351,2.2K,450,2023-07-27T15:28:00.000Z,AltcoinDailyio,,,,Sentiment: positive
+"Best 7 #Crypto Coins to Invest & Trade in August!!?
+
+NOT Ethereum or Bitcoin!!
+
+$ADA $TOMI $SOL
+$DOGE $HEX $RUNE
+
+Click HERE 
+https://youtu.be/_fXR8elnwnU",145,507,290,2023-07-27T01:26:21.000Z,AltcoinDailyio,,,,Sentiment: positive
+"Dogecoin registered its largest single-day gain since April, while bitcoin remained near a one-month low just above $29,000 as investors await news from the Fed later today. $DOGE $BTC 
+@LedesmaLyllah
+ and 
+@godbole17
+ report in First Mover Americas.
+https://trib.al/Rpo3xfU",35,75,36,2023-07-26T12:36:03.000Z,CoinDesk,,,,Sentiment: positive
+"X will create their own shitcoin and/or will adopt doge as a native currency within their ecosystem. 
+
+Tweeting it now so I can RT when it happens.",15,337,68,2023-07-26T11:10:52.000Z,BTCGandalf,,,,Sentiment: positive
+$DOGE is about to have a massive breakout! ,425,1.6K,289,2023-07-26T10:28:00.000Z,rovercrc,,,,Sentiment: positive
+"$DOGE logs biggest single-day in over 4 months as the dollar value locked in active perpetual futures contracts tops $500 million. By 
+@godbole17
+.",27,91,33,2023-07-26T05:56:34.000Z,CoinDesk,,,,Sentiment: positive
+$DOGE,37,360,132,2023-07-26T02:55:54.000Z,AltcoinDailyio,,,,Sentiment: neutral
+"Bitcoin slinks along near $29.2K, other major cryptos are mixed, although popular memecoin DOGE climbed after dogecoin fan Elon Musk's rebranding of Twitter. Investors now await a likely 
+@federalreserve
+ 25 bps interest rate hike. 
+@JPRubin23
+ writes",31,69,60,2023-07-25T23:40:35.000Z,CoinDesk,,,,Sentiment: neutral
+"Are you bullish on $DOGE? 
+
+NO                                 YES
+                                 ",92,1.7K,901,2023-07-25T18:43:00.000Z,rovercrc,,,,Sentiment: positive
+What does your portfolio look like? #Ethereum #Bitcoin #Dogecoin,60,440,119,2023-07-25T18:29:00.000Z,AltcoinDailyio,,,,Sentiment: neutral
+"#Dogecoin is PUMPING based on X payments speculation.
+
+Should Elon incorporate $DOGE into X?
+
+#bitcoin #crypto #ai",561,3.4K,707,2023-07-25T17:30:23.000Z,AltcoinDailyio,,,,Sentiment: positive
+".
+@elonmusk
+?? decision to change 
+@twitter
+'s name to X and make it an ??verything app??has a shot at broadening use of $DOGE, bitcoin and other cryptocurrencies.
+@HeleneBraunn
+ reports",79,217,33,2023-07-25T16:32:22.000Z,CoinDesk,,,,Sentiment: positive
+"LIVE: $DOGE spikes amid 
+@Twitter
+?? rebrand excitement, the UK's data watchdog is set to examine 
+@worldcoin
+ and more.
+
+""The Hash"" co-hosts chat about today's top headlines on CoinDesk TV:",14,29,19,2023-07-25T16:00:26.000Z,CoinDesk,,,,Sentiment: Neutral
+$DOGE BREAKING BULLISH! ,179,1.1K,143,2023-07-25T13:02:00.000Z,rovercrc,,,,Sentiment: positive
+"$DOGE is still on the rise as crypto traders buy in hopes of it playing a larger role on Twitter's rebranded X ??verything app??
+
+Futures traders lost nearly $10 million betting on and against DOGE's price movements, according to 
+@coinglass_com
+. https://coindesk.com/markets/2023/07/25/dogecoin-bumps-10-on-x-payments-speculation-doge-futures-traders-lose-10m/?term=organic&utm_campaign=CoinDesk&utm_content=headline%2CIG+XPost%2Ceditorial&utm_medium=social&utm_source=twitter??,24,77,26,2023-07-25T15:00:16.000Z,CoinDesk
+$DOGE rose for the second consecutive day as speculations of the tokens playing a bigger role on the newly-rebranded Twitter platform rose among crypto traders", fueling a price rally. By ,,,,,,,,Sentiment: positive
+@shauryamalwa,,,,,,,,,"I'm sorry, but it seems like the tweet content is missing. Could you please provide the tweet text so I can analyze the sentiment for you?"
+".""",66,166,53,2023-07-25T08:05:33.000Z,CoinDesk,,,,"I'm sorry, I can't perform sentiment analysis on a blank Tweet. Please provide me with the content of the Tweet and I will analyze it for you."
+"$DOGE is my 4rd biggest holding...
+
+Stupid or smart?",164,1.2K,284,2023-07-24T19:17:00.000Z,rovercrc,,,,Sentiment: neutral
+A HUGE $DOGE BREAKOUT IS IMMINENT!! ,250,1.3K,283,2023-07-24T16:41:00.000Z,rovercrc,,,,Sentiment: positive
+" Following 
+@Twitter
+'s rebranding to X, $DOGE prices jumped 5%.
+@elonmusk
+'s addition of dogecoin?? ticker logo to his bio on the newly named X platform hints at an intriguing future for the memecoin.
+https://coindesk.com/markets/2023/07/24/dogecoin-rises-after-twitter-rebranding-bitcoin-slides-to-29k/?term=organic&utm_campaign=CoinDesk&utm_content=IG+XPost%2Cembeddable+charts%2Ceditorial&utm_medium=social&utm_source=twitter??,47,129,58,2023-07-24T16:31:18.000Z,CoinDesk
+$DOGE jumped as much as 5% on the back of the Twitter's rebranding", despite the downturn in the broader market with $BTC slipping to $29K. By ,,,,,,,,Sentiment: positive
+@shauryamalwa,,,,,,,,,Sentiment: neutral
+.,,,,,,,,,"I'm unable to analyze the sentiment of a tweet without the actual content of the tweet provided. Please provide the tweet text so I can perform sentiment analysis and determine if it is positive, negative, or neutral."
+"https://trib.al/mlcQDOa""",76,255,42,2023-07-24T10:38:43.000Z,CoinDesk,,,,Sentiment: neutral
+X is about to give $DOGE massive utility??,214,1.3K,183,2023-07-24T08:14:15.000Z,rovercrc,,,,Sentiment: positive
+BREAKING: X announces that it will implement buying & selling of $DOGE & other #Crypto!,587,3K,378,2023-07-24T08:11:34.000Z,rovercrc,,,,Sentiment: positive
+BREAKING: Elon Musk added the $DOGE logo on his X profile location!,266,1.2K,180,2023-07-24T08:07:44.000Z,rovercrc,,,,Sentiment: positive
+"Elon talking about crypto I think!!!
+
+$BTC $ETH $DOGE",80,518,105,2023-07-24T04:21:53.000Z,AltcoinDailyio,,,,Sentiment: neutral
+Bankers hate this one simple trick! $BTC $ETH $DOGE,551,1.5K,199,2023-07-23T17:31:57.000Z,AltcoinDailyio,,,,Sentiment: neutral
+"Do you think $DOGE will hit $1,00 before 2025?
+
+NO                                 YES 
+                                  ",39,585,248,2023-07-22T18:21:00.000Z,rovercrc,,,,Sentiment: neutral
+HUGE $DOGE BREAKOUT IMMINENT! ,251,1.2K,203,2023-07-21T18:22:00.000Z,rovercrc,,,,Sentiment: positive
+".
+@elonmusk
+ tweets, $DOGE jumps. 
+
+Then, it just as quickly pared some of its gains. Here's what you want to know  https://coindesk.com/markets/2023/07/19/dogecoin-pops-4-on-elon-musk-tweet/?term=organic&utm_campaign=CoinDesk&utm_content=Charts%2CIG+XPost%2Cembeddable+charts%2Ctweet%2Ceditorial&utm_medium=social&utm_source=twitter??,14,55,20,2023-07-19T17:24:22.000Z,CoinDesk
+CORRECT: $DOGE spiked 4% higher to $0.072 after a tweet mention from Elon Musk.",,,,,,,,,Sentiment: positive
+"https://trib.al/bDmznzc""",10,66,37,2023-07-19T16:55:43.000Z,CoinDesk,,,,Sentiment: neutral
+"Which 3 do you choose? 
+
+ #Bitcoin
+ #Ethereum
+ #Cardano
+ #MultiversX
+ #Chainlink 
+ #Solana
+ #Matic
+ #Dogecoin ",174,643,1K,2023-07-17T19:18:16.000Z,AltcoinDailyio,,,,Sentiment: neutral
+"If Elon Musk sees this tweet, I will put all my money in #Dogecoin.",89,695,244,2023-07-11T08:51:14.000Z,rovercrc,,,,Sentiment: neutral
+"You receive $10,000, and you can only buy one of the following #Crypto. What do you choose? 
+
+- $BTC 
+- $ETH
+- $SOL
+- $XRP
+- $ADA
+- $VET
+- $USDT
+- ",119,588,829,2023-07-10T19:57:00.000Z,rovercrc,,,,Sentiment: neutral
+Elon Musk likes #Dogecoin. ,150,729,155,2023-07-09T15:21:00.000Z,AltcoinDailyio,,,,Sentiment: positive
+I rather would rather buy $PEPE here than $DOGE...,97,593,290,2023-07-07T19:56:00.000Z,rovercrc,,,,Sentiment: neutral
+#Dogecoin is fun.   ,18,124,79,2023-07-06T15:02:00.000Z,AltcoinDailyio,,,,Sentiment: positive
+"You receive $10,000, and you can only buy one of the following #Crypto. What do you choose?  
+
+- $BTC   
+- $ETH
+- $SOL
+- $XRP  
+- $ADA  
+- $VET
+- $MEE
+- ",120,589,986,2023-07-02T18:35:00.000Z,rovercrc,,,,Sentiment: neutral
+" 
+
+$PEPE has seen a huge gain this week amid a broader crypto rally, outperforming other #memecoins like $SHIB, $FLOKI and $DOGE.
+
+The token surged as much as 40% in the past 24 hours to extend weekly gains to over 70%. https://coindesk.com/markets/2023/06/22/pepecoin-becomes-biggest-meme-coin-gainer-with-70-weekly-jump/?term=organic&utm_campaign=CoinDesk&utm_content=headline%2CIG+XPost%2Ceditorial&utm_medium=social&utm_source=twitter??,76,191,51,2023-06-22T16:54:27.000Z,CoinDesk
+PEPE gains were significantly higher than meme tokens shiba inu (SHIB)", floki (FLOKI) and dogecoin (DOGE) ??even as developers of some of these tokens introduced ecosystem upgrades ??suggesting high buying interest for pepecoin. By ,,,,,,,,Sentiment: positive
+"@shauryamalwa""",36,125,26,2023-06-22T16:26:20.000Z,CoinDesk,,,,"I apologize, but it seems like the tweet content related to Dogecoin is missing. Please provide the tweet content so I can analyze the sentiment for you."
+DOGECOIN,68,448,193,2023-06-20T09:19:30.000Z,AltcoinDailyio,,,,Sentiment: neutral
+Shiba Inu or Dogecoin: Which Cryptocurrency Will Outperform This Year?,75,475,157,2023-06-19T21:44:25.000Z,CryptoTrends,,,,Sentiment: neutral
+If Dogecoin launched today Elon Musk would ban the twitter account.,41,254,164,2023-06-18T22:38:29.000Z,AltcoinDailyio,,,,Sentiment: neutral
+Elon Musk Denies Owning #Dogecoin Wallets Amid Lawsuit,62,334,73,2023-06-16T22:34:16.000Z,CryptoTrends,,,,Sentiment: neutral
+"You receive $10,000, and you can only buy one of the following #Crypto. What do you choose?  
+
+- $BTC   
+- $ETH
+- $SOL
+- $XRP  
+- $ADA  
+- $VET
+- $SHIB
+- ",151,650,1.1K,2023-06-11T19:58:00.000Z,rovercrc,,,,Sentiment: neutral
+"I think in the next bull market, $PEPE will overtake $DOGE!",68,430,332,2023-06-09T19:56:00.000Z,rovercrc,,,,Sentiment: neutral
+"$BTC and $DOGE rose 5% in the past 24 hours to lead gains among majors, as the crypto market reversed some SEC-induced losses and gained over 3% in market cap. By 
+@shauryamalwa
+.",28,92,45,2023-06-07T08:49:37.000Z,CoinDesk,,,,Sentiment: positive
+Elon Musk is accused of insider trading by investors in Dogecoin lawsuit.,18,172,130,2023-06-02T19:08:24.000Z,AltcoinDailyio,,,,Sentiment: negative
+" news:
+
+- Russia accuses of US hacking $AAPL
+- $META return to office 3 days a week
+- Senate blocks Biden's student-debt forgiveness
+- $DELL leaked earnings
+- Elon Musk x Dogecoin lawsuit
+- OPEC unlikely to deepen supply cuts, per Reuters
+- Futures: http://unusualwhales.com/futures",50,263,22,2023-06-02T06:36:15.000Z,unusual_whales,,,,Sentiment: neutral
+JUST IN: #Dogecoin investors file class action lawsuit against Elon Musk alleging insider trading.,13,73,24,2023-06-01T20:10:41.000Z,CryptoTrends,,,,Sentiment: negative
+"JUST IN: Elon Musk sued over #Dogecoin Twitter logo, alleging insider trading.",917,4.5K,950,2023-06-01T19:59:39.000Z,WatcherGuru,,,,Sentiment: neutral
+Dogecoin investors are accusing Elon Musk of insider trading in a new lawsuit,17,374,11,2023-06-01T18:50:31.000Z,Dexerto,,,,Sentiment: neutral
+"Elon Musk is being accused of insider trading in a proposed class action by investors who say he manipulated the cryptocurrency Dogecoin, costing them billions of dollars.",328,2.3K,319,2023-06-01T17:07:49.000Z,unusual_whales,,,,Sentiment: negative
+Next Bull Run I think $PEPE will overtake $DOGE,70,450,423,2023-06-01T10:23:00.000Z,rovercrc,,,,Sentiment: neutral
+I rather would rather buy $PEPE here than $DOGE...,52,323,513,2023-05-30T08:41:00.000Z,rovercrc,,,,Sentiment: neutral
+"Dogecoin $DOGE is about to EXPLODE!?
+
++ 5 Coins I Like
+
+Click HERE 
+>> https://youtu.be/wP8Kafbu2VQ",21,150,125,2023-05-29T22:52:17.000Z,AltcoinDailyio,,,,Sentiment: positive
+"The quirky yet generous world of $DOGE is taking a leap into the realm of documentaries.
+
+Spearheaded by the DAO ""Own the Doge,"" the project aims to share the multifaceted story of 
+@Dogecoin
+ and its impact.",28,96,42,2023-05-29T13:26:26.000Z,CoinDesk,,,,Sentiment: positive
+"$DOGE may be building for a big move as price volatility gauge hits four-year low, according to a chart indicator. Reports 
+@godbole17
+.
+
+https://trib.al/MTqZdnH",76,223,63,2023-05-29T12:21:05.000Z,CoinDesk,,,,Sentiment: positive
+I still think $PEPE will overtake $DOGE next bull run!,92,474,348,2023-05-28T16:38:00.000Z,rovercrc,,,,Sentiment: neutral
+I rather would buy $PEPE here than $DOGE...,64,349,428,2023-05-27T14:46:00.000Z,rovercrc,,,,Sentiment: negative
+"JUST IN: #Dogecoin surpasses 4,900,000 total wallet addresses.",5,66,15,2023-05-27T08:28:39.000Z,CryptoTrends,,,,Sentiment: positive
+"LIVE: 
+@elonmusk
+ warns investors not to ""bet the farm on 
+@dogecoin
+,"" new research shows crypto's fentanyl trade is worth millions and more.
+
+""The Hash"" co-hosts chat about today's top headlines on http://CoinDesk.TV: https://twitter.com/i/broadcasts/1lPKqBZbLvMGb??,19,48,25,2023-05-24T16:00:39.000Z,CoinDesk
+In 2013 you missed $BTC",,,,,,,,,Sentiment: neutral
+In 2014 you missed $DOGE,,,,,,,,,Sentiment: neutral
+In 2015 you missed $XRP,,,,,,,,,Sentiment: neutral
+In 2016 you missed $ETH,,,,,,,,,Sentiment: neutral
+In 2017 you missed $ADA,,,,,,,,,Sentiment: neutral
+In 2018 you missed $BNB,,,,,,,,,Sentiment: negative
+In 2019 you missed $LINK,,,,,,,,,Sentiment: neutral
+In 2020 you missed $DOT,,,,,,,,,Sentiment: neutral
+In 2021 you missed $SHIB,,,,,,,,,Sentiment: neutral
+In 2022 you missed $USDT ,,,,,,,,,Sentiment: neutral
+In 2023," don?? miss _____.""",177,545,1.2K,2023-05-24T09:22:00.000Z,rovercrc,,,Sentiment: neutral
+I think $PEPE will likely overtake $DOGE in the next bull run!,107,501,264,2023-05-23T16:41:00.000Z,rovercrc,,,,Sentiment: neutral
+I'm buying more $DOGE.,65,531,227,2023-05-23T14:42:00.000Z,rovercrc,,,,Sentiment: positive
+"You receive $10,000, and you can only buy one of the following #Crypto. What do you choose?    
+
+- $BTC    
+- $ETH
+- $SOL
+- $XRP   
+- $ADA   
+- $VET
+- $SHIB
+- ",57,388,797,2023-05-23T11:59:46.000Z,rovercrc,,,,Sentiment: neutral
+".
+@tridog
+: ""Crypto is a very strong part of the story of Doge, but it wasn't the beginning and may not be the end.""
+
+By 
+@jeffwilser
+ 
+
+#doge #dogecoin",24,72,45,2023-05-22T21:32:12.000Z,CoinDesk,,,,Sentiment: neutral
+"$1 BILLION MARKET CAP!!!    
+
+$BTC $ETH $BNB $XRP
+$DOGE $SHIB $PEPE
+
+# of days it took each crypto:",136,534,223,2023-05-22T00:54:43.000Z,AltcoinDailyio,,,,Sentiment: positive
+"I'm buying more $DOGE here.
+
+Smart or stupid?",81,592,430,2023-05-20T08:40:00.000Z,rovercrc,,,,Sentiment: positive
+"In 2016 you missed $BTC
+In 2017 you missed $ADA
+In 2018 you missed $BNB
+In 2019 you missed $LINK
+In 2020 you missed $DOT
+In 2021 you missed $DOGE
+In 2022 you missed $SHIB
+In 2023, you shouldn?? miss ______",187,974,1.9K,2023-05-19T08:31:00.000Z,rovercrc,,,,Sentiment: neutral
+"Would you rather hold $1,000,000 in #Doge or #Pepe?",44,249,498,2023-05-18T12:23:00.000Z,rovercrc,,,,Sentiment: neutral
+"A key metric could play dampen 
+@pepecoineth
+'s rise to the top. Although $PEPE has room for growth it still lacks the retail involvement seen in $DOGE and $SHIB's rise, according to 
+@santimentfeed
+. By 
+@shauryamalwa
+.",29,98,69,2023-05-18T10:45:06.000Z,CoinDesk,,,,Sentiment: neutral
+I think $PEPE will likely overtake $DOGE in the next bull run!,287,1.2K,574,2023-05-17T17:49:00.000Z,rovercrc,,,,Sentiment: neutral
+"$DOGE's daily transaction volume climbed to a lifetime peak earlier this week following the launch of DRC-20 standard, a new mechanism that now allows the issuance of tokens on the Dogecoin blockchain. By 
+@shauryamalwa
+.",48,173,56,2023-05-17T06:41:57.000Z,CoinDesk,,,,Sentiment: positive
+I think that $PEPE got serious potential to overtake $DOGE next bull run.,81,415,322,2023-05-16T19:57:00.000Z,rovercrc,,,,Sentiment: neutral
+"What the best meme for each animal?
+
+Dog: $DOGE
+Frog: $PEPE
+Cat: ____
+Bird: ____
+
+What else?",155,493,1.3K,2023-05-14T13:22:00.000Z,AltcoinDailyio,,,,Sentiment: neutral
+I think $PEPE is better than $DOGE!,408,1.6K,875,2023-05-13T10:24:00.000Z,rovercrc,,,,Sentiment: neutral
+".
+@elonmusk
+'s tweets have proven to cause immense jumps in tokens mentioned by him, like $DOGE. These jumps are short-lived, however, and Milady NFTs could see the same trading action. By 
+@shauryamalwa
+.
+
+https://trib.al/RqtdkWH",13,67,45,2023-05-12T06:14:51.000Z,CoinDesk,,,,Sentiment: positive
+"#Crypto Market is in MASS CHAOS! 
+
+$PEPE $LADYS $MONG $DOGE
+
+DO NOT BE FOOLED 
+>> https://youtu.be/MBFv7Iei_Pc",52,250,217,2023-05-11T22:44:46.000Z,AltcoinDailyio,,,,Sentiment: neutral
+"""The only value any of these tokens have is the value that we place on them,"" early $DOGE investor 
+@GaryLachance
+ says about meme coins.
+
+But ""doge is a great unifier.""
+
+Watch more as part of #CoinDeskTurns10: https://coindesk.com/video/early-dogecoin-backer-on-the-rise-of-the-meme-economy/?term=organic&utm_campaign=CoinDesk&utm_content=coindesk+tv%2CFirst+Mover%2Ceditorial&utm_medium=social&utm_source=twitter??,10,35,41,2023-05-11T17:00:42.000Z,CoinDesk
+JUST IN: #Dogecoin surpasses 4",800,"000 total wallet addresses.""",7,64,19,2023-05-11T09:50:50.000Z,CryptoTrends,,Sentiment: positive
+"You receive $10,000, and you can only buy one of the following #Crypto. What do you choose?  
+
+- $BTC   
+- $ETH
+- $SOL
+- $XRP  
+- $ADA  
+- $VET
+- $SHIB
+- ",338,574,1K,2023-05-08T11:51:36.000Z,rovercrc,,,,Sentiment: neutral
+"Would you rather have $1,000,000 in $PEPE or $DOGE?",47,371,615,2023-05-06T18:22:00.000Z,rovercrc,,,,Sentiment: neutral
+"Here's a look at surges for three major meme coins.
+ Investing $1 in $DOGE on May 1, 2021, would've yielded $2.22 on May 8, 2021 at its all-time high
+ $1 in $SHIB on Sept. 1, 2021, would've yielded $11.90 on Oct. 28, 2021
+ $1 in $PEPE on April 19 would've yielded $22 today.",31,85,59,2023-05-05T20:49:29.000Z,CoinDesk,,,,Sentiment: positive
+"Would you rather have $100,000 in $PEPE or $DOGE?",51,436,572,2023-05-05T19:54:00.000Z,rovercrc,,,,Sentiment: neutral
+"Would you rather have $1,000,000 in $PEPE or $DOGE?",44,353,544,2023-05-04T15:48:00.000Z,rovercrc,,,,Sentiment: neutral
+Can $PEPE overtake $DOGE?,51,382,501,2023-05-04T08:52:00.000Z,rovercrc,,,,Sentiment: neutral
+"LIVE: 
+@WhiteHouse
+ pushes for punitive tax on crypto mining, $PEPE overtakes $DOGE as it soars to $500 million in market cap and more.
+
+""The Hash"" co-hosts dive into today's top headlines on CoinDesk TV:",4,50,22,2023-05-03T16:00:22.000Z,CoinDesk,,,,Sentiment: neutral
+"Frenzied trading activity has pushed the newly-launched pepe token ($PEPE) to garner trading volumes higher than those of dogecoin ($DOGE) and shiba inu ($SHIB) ??which are otherwise the biggest memecoins by these metrics. By 
+@shauryamalwa
+.",38,96,44,2023-05-03T07:06:44.000Z,CoinDesk,,,,Sentiment: neutral
 "In 2013 you missed $BTC
 In 2014 you missed $DOGE
 In 2015 you missed $XRP
@@ -254,244 +818,29 @@ In 2020 you missed $DOT
 In 2021 you missed $SHIB
 In 2022 you missed $USDT
 
-In 2023, don’t miss _____.",477,"2,392","2,378",2023-03-28T16:26:00.000Z,rovercrc,Sentiment: neutral
-"Which of these will happen first? 
+In 2023, don?? miss _____.",255,1.4K,1.9K,2023-05-02T18:36:00.000Z,rovercrc,,,,Sentiment: neutral
+"You receive $10,000, and you can only buy one of the following #Crypto. What do you choose?  
 
-#Bitcoin: $70,000 
-#Ethereum: $8,000 
-#BNB: $1,000
-#Solana: $500 
-#Chainlink: $80
-#Polkadot: $80
-#MEE: $1
-#Matic: $5
-#Cardano: $4
-#XRP: $3
-#Dogecoin: $1 
-#Vechain: $1 
-#CRO: $1 
-#Shib: $1",629,"3,597","1,509",2023-03-26T17:26:00.000Z,rovercrc,Sentiment: neutral
-"Which of these will happen first? 
-
-#Bitcoin: $70,000 
-#Ethereum: $8,000 
-#BNB: $1,000
-#Solana: $500 
-#Chainlink: $80
-#Polkadot: $80
-#MEE: $1
-#Matic: $5
-#Cardano: $4
-#XRP: $3
-#Dogecoin: $1 
-#Vechain: $1 
-#CRO: $1 
-#Shib: $1",459,"2,786","1,285",2023-03-22T15:05:00.000Z,rovercrc,Sentiment: neutral
-"You receive $10,000, and you can only buy one of the following #Crypto. What do you choose? 
-
-- $BTC  
+- $BTC   
 - $ETH
 - $SOL
-- $XRP 
-- $ADA 
+- $XRP  
+- $ADA  
 - $VET
 - $MEE
-- $SHIB
-- $MATIC
-- $DOGE
-- $EGLD
-- $MANA
-- $GALA
-- $SAND
+- ",178,891,1.2K,2023-05-02T09:32:00.000Z,rovercrc,,,,Sentiment: neutral
+"Do you think $DOGE will hit $1,00 in 2023?
 
-Let me know ",230,"1,350","1,603",2023-03-16T17:03:00.000Z,rovercrc,Sentiment: neutral
-"Majors crypto tokens slid as traders sold holdings to lock in the past few days' gains. Polygon’s MATIC and dogecoin (DOGE) led losses with declines of more than 8%. By 
-@shauryamalwa",13,50,18,2023-03-16T11:04:40.000Z,CoinDesk,Sentiment: negative
-#Dogecoin: How it is Now Worth More Than Credit Suisse,4,28,7,2023-03-15T19:39:12.000Z,CryptoTrends,Sentiment: neutral
-"You have $1,000,000 to invest in one #crypto that will make you a billionaire. Which one do you choose?
+NO                                 YES
+                                   ",81,1K,436,2023-04-29T18:37:00.000Z,rovercrc,,,,Sentiment: neutral
+"Which coin has a bigger community?
 
-- $BTC
-- $ETH
-- $ADA
-- $VET
-- $SOL
-- $MATIC
-- $SHIB
-- $NEAR
-- $DOGE
-- $DOT
-- $LINK",227,"1,285","1,259",2023-03-15T16:20:00.000Z,rovercrc,Sentiment: neutral
-"Blockchain security 
-@HalbornSecurity
- says a now-patched vulnerability it found last year on the open-source codebase on 
-@dogecoin
- is present in at least 280 other networks. By 
-@shauryamalwa
-.",21,64,20,2023-03-14T07:30:02.000Z,CoinDesk,Sentiment: neutral.
-"#Dogecoin still working as intended  cc 
-@elonmusk",22,177,34,2023-03-12T01:02:03.000Z,AltcoinDailyio,Sentiment: neutral
-"Does 
-@ElonMusk
- have any predictions for #crypto over the next 5-10 years? 
-
-#bitcoin #ethereum #dogecoin",35,360,148,2023-03-09T16:19:00.000Z,AltcoinDailyio,Sentiment: neutral.
-"Which of these will happen first? 
-
-#Bitcoin: $70,000 
-#Ethereum: $8,000 
-#BNB: $1,000
-#Solana: $500 
-#Chainlink: $80
-#Polkadot: $80
-#Matic: $5
-#Cardano: $4
-#XRP: $3
-#Dogecoin: $1 
-#Vechain: $1 
-#CRO: $1 
-#Shib: $1",765,"4,641","2,257",2023-03-08T14:48:00.000Z,rovercrc,Sentiment: neutral
-I think $DOGE is undervalued.,103,701,343,2023-03-07T09:47:00.000Z,rovercrc,Sentiment: positive.
-"Big Cryptocurrency News Today!   
-
-• #Binance in BIG TROUBLE!?
-• Elon Musk dopping Dogecoin for AI?
-• #FTX, Bitcoin, Polygon $MATIC & MORE!
-
-CLICK HERE 
->> https://youtu.be/EcaPVhxzieo",25,147,82,2023-03-06T22:54:04.000Z,AltcoinDailyio,Sentiment: neutral
-"If You Invested $10,000 into #Dogecoin in 2020, How Rich Would You Be Now? ",9,78,9,2023-02-28T14:35:20.000Z,CryptoTrends,Sentiment: neutral
-Elon Musk loves Dogecoin.   ,132,843,123,2023-02-28T09:48:23.000Z,AltcoinDailyio,Sentiment: Positive
-"Top 10 cryptocurrencies by market cap (excluding stablecoins) 
-
-1. #Bitcoin $449B
-2. #Ethereum $194B
-3. #BNB $48.3B
-4. #XRP $19.3B 
-5. #Cardano $12.7B
-6. #Polygon $11.5B 
-7. #Dogecoin $11.3B 
-8. #Solana $8.6B 
-9. #Polkadot $7.9B 
-10. #ShibaInu $7.4B","1,210","5,328",636,2023-02-26T14:32:22.000Z,WatcherGuru,Sentiment: neutral
-Next #altcoin cycle meme coin: DOGE or SHIB?,76,582,641,2023-02-22T17:25:00.000Z,AltcoinDailyio,Sentiment: Neutral
-High time I confessed I let the Doge out,19K,225.6K,12.7K,2023-02-22T09:40:41.000Z,elonmusk,Sentiment: neutral
-What does your portfolio look like? #Ethereum #Bitcoin #Dogecoin,147,999,223,2023-02-21T07:28:08.000Z,AltcoinDailyio,Sentiment: neutral
-"$DOGE and $FLOKI jumped after 
-@elonmusk
- tweeted a photo of his Shiba Inu in the CEO chair. 
-
-""Speculation is never going to leave the market, it's part of human behavior,"" 
-@callieabost
- of 
-@eToroUS
- says.
-
-Watch more markets analysis: https://coindesk.com/video/bitcoin-jumps-back-above-dollar225k-after-cpi-report/?term=organic&utm_campaign=CoinDesk&utm_content=coindesk+tv%2CFirst+Mover%2Ceditorial&utm_medium=social&utm_source=twitter…",25,124,17,2023-02-15T18:09:29.000Z,CoinDesk,Sentiment: positive
-"LIVE: 
-@Paxosglobal
- burns $700 million $BUSD in 27 hours, 
-@POTUS
- taps 
-@federalreserve
-'s Lael Brainard as top economic adviser and $DOGE jumps.
-@callieabost
- of 
-@eToroUS
- and former Paxos Head of Portfolio Management Jesse Austin Campbell join ""First Mover"":",5,32,20,2023-02-15T14:00:25.000Z,CoinDesk,Sentiment: positive
-"UPDATE: 
-@elonmusk
- has named his dog $Floki the new CEO of 
-@Twitter
-, sending 
-@RealFlokiInu
- and 
-@dogecoin
- to the moon. $doge $shib
-@thesamreynolds
- reports",188,670,147,2023-02-15T05:55:09.000Z,CoinDesk,Sentiment: positive
-JUST IN: Elon Musk reveals Dogecoin's #Shiba Inu Dog is the new CEO of Twitter ,369,"1,986",179,2023-02-15T05:13:04.000Z,CryptoTrends,Sentiment: neutral
-"An 
-@elonmusk
- tweet declaring that his dog Floki is the new CEO of 
-@twitter
- has sent DOGE and Floki soaring.
-@thesamreynolds
- reports",85,359,122,2023-02-15T04:18:58.000Z,CoinDesk,Sentiment: positive
-"Elon Musk at #SuperBowl  in Dogecoin shirt.
-
-He truly likes the coin.",89,904,112,2023-02-13T04:31:09.000Z,AltcoinDailyio,Sentiment: positive
-Is this the cycle #Dogecoin hits $1?   ,36,391,186,2023-02-11T20:14:00.000Z,AltcoinDailyio,Sentiment: neutral
-$DOGE Weekly Downtrend retest! ,64,307,165,2023-02-10T13:53:00.000Z,rovercrc,Sentiment: negative.
-Elon Musk giving the gift of Dogecoin. ,17,210,65,2023-02-09T05:26:51.000Z,AltcoinDailyio,Sentiment: positive
-" much excite.
-@PleasrDAO
- is back with a second live auction. This time its the couch Shibu Inu, Kabosu, sat on in the picture that spawned a million doge memes.
-
-The 
-@ownthedoge
- community chose 
-@SavetheChildren
- to receive the proceeds from the sale.",48,109,32,2023-02-05T17:45:34.000Z,CoinDesk,Sentiment: positive.
-Elon Musk likes #Dogecoin. ,422,"1,923",292,2023-02-04T19:21:01.000Z,AltcoinDailyio,Sentiment: positive
-This man went on to host SNL & pump #Dogecoin at the very top.,21,259,60,2023-02-03T05:28:26.000Z,AltcoinDailyio,Sentiment: negative
-"The very couch the meme-famous Shibu Inu, Kabosu, sat on in the picture that spawned a million doge memes is going on the auction block for a charitable cause.",29,117,30,2023-02-02T14:06:57.000Z,CoinDesk,Sentiment: positive
-#Dogecoin is fun.   ,44,360,137,2023-02-01T20:02:09.000Z,AltcoinDailyio,Sentiment: positive
-Dogecoin has a higher market cap than American Airlines ,119,747,176,2023-01-31T06:27:07.000Z,AltcoinDailyio,Sentiment: neutral
-"$DOGE spiked after the Financial Times reported 
-@elonmusk
- wants 
-@Twitter
- to build a payments system that could accommodate cryptocurrencies at some point.
-@inkbacker
- reports",178,869,95,2023-01-30T17:39:41.000Z,CoinDesk,Sentiment: positive
-"#Bitcoin is FLYING!!! 
-
-Political ELITES trying to CRASH Crypto Market!? 
-
-+ Altcoin News:
-$ETH $ADA $CHZ $AAVE $DOGE $MATIC 
-
-CLICK HERE 
->> https://youtu.be/EIEENzYdTqw",22,149,56,2023-01-29T23:15:19.000Z,AltcoinDailyio,Sentiment: neutral
-"Renewed interest in $DOGE, spurred by 
-@elonmusk
- and the 
-@Official_WSB
- subreddit, breathed new life into meme coins in 2021.
-
-Following the explosive success of 
-@Dogecoin
-, investors began looking for the next viral sensation. Enter 
-@ShibainuCoin
-. https://coindesk.com/learn/shiba-inu-shib-a-complete-beginners-guide/?term=organic&utm_campaign=CoinDesk&utm_content=Learn%2CIG+XPost%2Cgallery%2Ceditorial&utm_medium=social&utm_source=twitter…",44,178,31,2023-01-28T14:14:20.000Z,CoinDesk,Sentiment: neutral
-"Do you think $DOGE will hit $1,00?
-
-                 NO                                 YES
-                                                   ",263,"3,191",637,2023-01-19T13:04:00.000Z,rovercrc,Sentiment: neutral
-"SHIB is up 20%, DOGE 5% as traders continue to chase meme coins. 
-@thesamreynolds
- reports.",43,160,33,2023-01-18T06:54:25.000Z,CoinDesk,Sentiment: positive
-Next #altcoin cycle meme coin: DOGE or SHIB?,110,897,744,2023-01-18T05:25:09.000Z,AltcoinDailyio,Sentiment: neutral
-$ADA has flipped Dogecoin,95,"1,095",140,2023-01-16T00:43:00.000Z,AltcoinDailyio,Sentiment: neutral
-JUST IN: #Dogecoin reclaims a $12 billion market cap.,811,"5,427",462,2023-01-14T23:31:39.000Z,WatcherGuru,Sentiment: positive
-Will Elon Musk support #Dogecoin just as much going forward?,53,483,227,2023-01-14T12:08:00.000Z,AltcoinDailyio,Sentiment: neutral.
-"9,000 likes and I explore the #DOGE #SHIB #BONK ecosystems in depth",30,516,145,2023-01-12T14:46:30.000Z,AltcoinDailyio,Sentiment: neutral
-Should I buy $DOGE?,192,"1,960",790,2023-01-10T12:49:30.000Z,rovercrc,Sentiment: neutral
-Dogecoin is crypto ,75,540,138,2023-01-04T07:47:12.000Z,AltcoinDailyio,Sentiment: neutral.
-"Which of these will happen first? 
-
-#Bitcoin: $70,000 
-#Ethereum: $8,000 
-#BNB: $1,000
-#Solana: $500 
-#Chainlink: $80
-#Polkadot: $80
-#MEE: $1
-#Matic: $5
-#Cardano: $4
-#XRP: $3
-#Dogecoin: $1 
-#Vechain: $1 
-#CRO: $1 
-#Shib: $1",254,"1,400",666,2023-01-03T10:19:00.000Z,rovercrc,Sentiment: neutral.
-Dogecoin Foundation announces new 5M #DOGE fund for core developers,71,413,80,2023-01-02T19:17:52.000Z,AltcoinDailyio,Sentiment: positive
+#Bitcoin 
+#Ethereum
+#Doge
+#Pepecoin",42,289,398,2023-04-29T15:29:00.000Z,rovercrc,,,,Sentiment: neutral
+"Why does Axios reporter 
+@BradyDale
+ think Dogecoin belongs with Bitcoin and Ethereum as crypto's canonical chains? CoinDesk interviewed the author whose book about FTX's downfall is due to be published shortly.
+@danielgkuhn
+ at #Consensus2023",8,32,16,2023-04-27T14:35:15.000Z,CoinDesk,,,,Sentiment: neutral
