@@ -1,0 +1,238 @@
+// @version=5
+// MACD部分
+// indicator(title="半木夏", shorttitle="banmuxia", overlay = true)
+strategy(title="半木夏", shorttitle="banmuxia", overlay = true)
+// Getting inputs
+fast_length = input(title="Fast Length", defval=13)
+slow_length = input(title="Slow Length", defval=34)
+source = input(title="Source", defval=close)
+signal_length = input.int(title="Signal Smoothing",  minval = 1, maxval = 50, defval = 9)
+sma_source = input.string(title="Oscillator MA Type",  defval="EMA", options=["SMA", "EMA"])
+sma_signal = input.string(title="Signal Line MA Type", defval="EMA", options=["SMA", "EMA"])
+// Plot colors
+col_macd = input(#2962FF, "MACD Line  ", group="Color Settings", inline="MACD")
+col_signal = input(#FF6D00, "Signal Line  ", group="Color Settings", inline="Signal")
+col_grow_above = input(#26A69A, "Above   Grow", group="Histogram", inline="Above")
+col_fall_above = input(#B2DFDB, "Fall", group="Histogram", inline="Above")
+col_grow_below = input(#FFCDD2, "Below Grow", group="Histogram", inline="Below")
+col_fall_below = input(#FF5252, "Fall", group="Histogram", inline="Below")
+// Calculating
+fast_ma = sma_source == "SMA" ? ta.sma(source, fast_length) : ta.ema(source, fast_length)
+slow_ma = sma_source == "SMA" ? ta.sma(source, slow_length) : ta.ema(source, slow_length)
+macd = fast_ma - slow_ma
+signal = sma_signal == "SMA" ? ta.sma(macd, signal_length) : ta.ema(macd, signal_length)
+hist = macd - signal
+
+// 获取到左右查询的宽度
+lbR = 1
+lbL = lbR
+// 左右查询的范围
+rangeUpper = 60
+rangeLower = 5
+
+bearColor = color.red
+bullColor = color.green
+hiddenBullColor = color.new(color.yellow,50)
+hiddenBearColor = color.new(color.yellow,50)
+textColor = color.white
+noneColor = color.new(color.white, 100)
+
+// 将source改为hist
+osc = hist
+
+showpivot = input(defval = true, title = "Show Pivot Points")
+
+plFound = na(ta.pivotlow(osc, lbL, lbR)) ? false : true
+phFound = na(ta.pivothigh(osc, lbL, lbR)) ? false : true
+
+float ph = ta.pivothigh(osc, lbL, lbR)
+float pl = ta.pivotlow(osc, lbL, lbR)
+ph := math.round(ph, 1)
+pl := math.round(pl, 1)
+hist_str_h = str.tostring(ph)
+hist_str_l = str.tostring(pl)
+
+// keep values and positions of Pivot Highs/Lows in the arrays
+var int maxarraysize = 20
+var ph_positions = array.new_int(maxarraysize, 0)
+var pl_positions = array.new_int(maxarraysize, 0)
+var ph_vals = array.new_float(maxarraysize, 0.)
+var pl_vals = array.new_float(maxarraysize, 0.)
+var phbar_vals = array.new_float(maxarraysize, 0.) // 直接记录价格
+var plbar_vals = array.new_float(maxarraysize, 0.)
+var phl_continue = array.new_int(maxarraysize, 0) // 用来记录是否连续的
+
+// variables for Alerts
+pos_reg_div_detected = false
+neg_reg_div_detected = false
+
+// keep line in an array
+var pos_div_lines = array.new_line(0)
+var neg_div_lines = array.new_line(0)
+
+// add PHs to the array
+if phFound and ph > 0
+    array.unshift(ph_positions, bar_index-lbR)
+    array.unshift(ph_vals, ph)
+    array.unshift(phbar_vals, high[lbR])
+	array.unshift(phl_continue, 1)
+    if array.size(ph_positions) > maxarraysize
+        array.pop(ph_positions)
+        array.pop(ph_vals)
+        array.pop(phbar_vals)
+	if array.size(phl_continue) > maxarraysize
+		array.pop(phl_continue)
+
+// add PLs to the array
+if plFound and pl < 0
+    array.unshift(pl_positions, bar_index-lbR)
+    array.unshift(pl_vals, pl)
+    array.unshift(plbar_vals, low[lbR])
+	array.unshift(phl_continue, -1)
+    if array.size(pl_positions) > maxarraysize
+        array.pop(pl_positions)
+        array.pop(pl_vals)
+	if array.size(phl_continue) > maxarraysize
+		array.pop(phl_continue)
+
+check_lines_count(arr, cnt)=> 
+	if array.size(arr) > cnt
+		array.pop(arr)
+
+// 目前我们只考虑连续的情况, 如果指标中间不连续, 那么就不做处理. 最多只处理连续5个bar的情况
+max_search_vals = input.int(defval = 5, title = "Maximum Bars to Search", minval = 2, maxval = 5)
+bigger_less_than = input.float(defval = 0.618, title = "bigger or less than previous pivot", minval = 0.01, maxval = 0.99)
+
+if plFound and osc[lbR] < 0 and barstate.isconfirmed
+	prsc = low
+	already_got = false
+	min_pl = array.get(pl_vals, 0)
+	for x = 0 to max_search_vals - 1 
+		// 循环获取最近的极值, 如果在同一侧, 并且没有找到
+		if nz(array.get(phl_continue, x), 0) == -1 and not already_got
+			min_pl := math.min(min_pl, array.get(pl_vals,x))
+		    // 如果macd值大于上一个macd值, 但是价格小于上一个的价格, 那么我们认为是在背离
+			if array.get(pl_vals, 0) > array.get(pl_vals,x) and array.get(plbar_vals,0) < array.get(plbar_vals,x) 
+			   and array.get(pl_vals, x) <= min_pl 
+			   and array.get(pl_vals,x)*bigger_less_than <= array.get(pl_vals, 0)
+				already_got := true
+                pos_reg_div_detected := true
+				new_line = line.new(array.get(pl_positions, x),
+						  array.get(plbar_vals,x),
+						  bar_index - lbR,
+						  low[lbR],
+                          extend = extend.none,
+						  color = color.lime,
+						  style = line.style_solid,
+						  width = 2
+						  )
+				array.unshift(pos_div_lines, new_line)
+				check_lines_count(pos_div_lines, 10)
+		else
+			break
+
+if phFound and osc[lbR] > 0 and barstate.isconfirmed
+	prsc = high
+	already_got = false
+	max_ph = array.get(ph_vals, 0)
+	for x = 0 to max_search_vals - 1
+		if nz(array.get(phl_continue, x), 0) == 1 and not already_got 
+			max_ph := math.max(max_ph, array.get(ph_vals,x))
+			// 如果macd的值小于上一个极值, 价格却在创新高, 那么就认为趋势减弱, 是在背离
+			if array.get(ph_vals, 0) < array.get(ph_vals, x) and array.get(phbar_vals, 0) > array.get(phbar_vals, x) 
+			   and array.get(ph_vals, x) >= max_ph
+			   and array.get(ph_vals,x)*bigger_less_than >= array.get(ph_vals, 0)
+				already_got := true
+                neg_reg_div_detected := true
+				new_line = line.new(array.get(ph_positions, x),
+						  array.get(phbar_vals,x),
+						  bar_index - lbR,
+						  high[lbR],
+                          extend = extend.none,
+						  color = color.red,
+						  style = line.style_solid,
+						  width = 2
+						  )
+				array.unshift(neg_div_lines, new_line)
+				check_lines_count(neg_div_lines, 10)
+		else 
+			break
+
+// 配置atr
+length = input(title="Length", defval=13)
+smoothing = input.string(title="Smoothing", defval="RMA", options=["RMA", "SMA", "EMA", "WMA"])
+m = input.float(1.5, "Multiplier")
+src1 = input(high)
+src2 = input(low)
+pline = input(true, "Show Price Lines")
+col1 = input(color.blue, "ATR Text Color")
+col2 = input(color.teal, "Low Text Color",inline ="1")
+col3 = input(color.red, "High Text Color",inline ="2")
+
+collong = input(color.teal, "Low Line Color",inline ="1")
+colshort = input(color.red, "High Line Color",inline ="2")
+
+ma_function(source, length) =>
+	if smoothing == "RMA"
+		ta.rma(source, length)
+	else
+		if smoothing == "SMA"
+			ta.sma(source, length)
+		else
+			if smoothing == "EMA"
+				ta.ema(source, length)
+			else
+				ta.wma(source, length)
+				
+a = ma_function(ta.tr(true), length) * m
+x = ma_function(ta.tr(true), length) * m + src1 // 上边界
+x2 = src2 - ma_function(ta.tr(true), length) * m // 下边界
+
+p1 = plot(x, title = "ATR Short Stop Loss", color= colshort, trackprice = pline ? true : false)
+p2 = plot(x2, title = "ATR Long Stop Loss", color= collong, trackprice = pline ? true : false)
+
+var table Table = table.new(position.bottom_center, 3, 1, border_width = 3)    
+
+f_fillCell(_table, _column, _row, _value, _timeframe) =>
+
+	_cellText = _timeframe + str.tostring(_value, "#.#")
+    table.cell(_table, _column, _row, _cellText, text_color = col1)
+    table.cell_set_text_color(Table, 1, 0, color.new(col3, transp = 0))
+    table.cell_set_text_color(Table, 2, 0, color.new(col2, transp = 0))
+    
+if barstate.islast
+    f_fillCell(Table, 0, 0, a, "ATR: " )
+    f_fillCell(Table, 1, 0, x, "H: " )
+    f_fillCell(Table, 2, 0, x2, "L: " )   
+
+var order_id = 0
+
+if neg_reg_div_detected or pos_reg_div_detected
+	order_id := order_id + 1
+
+// 在k线上用label标记atr和出入场点
+if neg_reg_div_detected
+	short_entry_point = close[lbR-1]
+    short_stop_loss_point = x[lbR-1]
+    short_take_profit_point = x2[lbR-1]
+    text1 = hist_str_h + "\n" + str.tostring(order_id) + "\n" +
+       str.tostring(short_entry_point, "#.#") + "\n" + 
+       str.tostring(short_take_profit_point, "#.#") + "\n" +
+	   str.tostring(short_stop_loss_point, "#.#")
+	label.new(bar_index[lbR], high[lbR], text = text1, style = label.style_label_down, color = color.new(color.white, 100), textcolor = color.red, size = size.tiny)
+	strategy.entry('short:' + str.tostring(order_id), strategy.short, comment='做空:'+str.tostring(order_id), limit = short_entry_point)
+    strategy.exit('exit:' + str.tostring(order_id),'short:' + str.tostring(order_id), limit = short_take_profit_point, stop = short_stop_loss_point, comment_profit = '盈' + str.tostring(order_id), comment_loss = '损' + str.tostring(order_id))
+
+    if pos_reg_div_detected
+	long_entry_point = close[lbR-1]
+    long_stop_loss_point = x2[lbR-1]
+    long_take_profit_point = x[lbR-1]
+    text2 = hist_str_l +"\n" + 
+       str.tostring(long_entry_point, "#.#") + "\n" + 
+       str.tostring(long_take_profit_point, "#.#") + "\n" + 
+       str.tostring(long_stop_loss_point, "#.#")
+	label.new(bar_index[lbR], low[lbR], text = text2, style = label.style_label_up, color = color.new(color.white, 100), textcolor = color.lime, size = size.tiny)
+	strategy.entry('long:' + str.tostring(order_id), strategy.long, comment='做多:'+str.tostring(order_id), limit = long_entry_point)
+    strategy.exit('exit:' + str.tostring(order_id),'long:'+ str.tostring(order_id), limit = long_take_profit_point, stop = long_stop_loss_point, comment_profit = '盈'+str.tostring(order_id), comment_loss = '损'+ str.tostring(order_id))
+
+alertcondition(pos_reg_div_detected or neg_reg_div_detected, title='入场', message='entry')
